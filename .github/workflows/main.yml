@@ -2,8 +2,8 @@ name: 定时任务
 
 on:
   schedule:
-    - cron: "*/20 1-3 * * * Asia/Shanghai"
-    - cron: "0 */4 * * * Asia/Shanghai"
+    - cron: "*/20 1-2,23 * * *"
+
 
 jobs:
   run_code:
