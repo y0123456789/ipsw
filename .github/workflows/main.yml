@@ -4,8 +4,8 @@ name: 定时任务
 on:
   push:
   schedule:
-    - cron: '*/30 * * * *'
-    - cron: '0 0 * * *'
+    - cron: "*/40 1-3 * * * Asia/Shanghai"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 # 定义访问权限，这里表示需要访问仓库的 contents 和 deployments 权限
