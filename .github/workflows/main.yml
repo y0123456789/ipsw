@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: "0 */4 * * *"
 
-
 jobs:
   run_code:
     runs-on: ubuntu-latest
