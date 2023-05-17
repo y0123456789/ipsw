@@ -22,4 +22,4 @@ jobs:
 
     - name: 运行代码
       run: |
-        python your_code.py
+        python ipsw.py
