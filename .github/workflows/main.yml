@@ -24,36 +24,30 @@ jobs:
       run: |
         python ipsw.py
 
-    # 第五个步骤：创建 deploy 文件夹
-    - name: Create Deploy Folder
+    - name: 创建 Deploy 文件夹
       run: mkdir -p deploy
       
-    # 第六个步骤：将生成的文件移动到 deploy 文件夹
-    - name: Move Files to Deploy Folder
+    - name: 将生成的文件移动到 Deploy 文件夹
       run: |
-      mv *.json deploy/*.json
+        mv *.json deploy/*.json
 
-      
-    # 第七个步骤：将生成的文件复制回工作目录
-    - name: Copy Files to Workspace
+    - name: 将生成的文件复制回工作目录
       run: cp -R deploy/* $GITHUB_WORKSPACE/
       
-    # 第八个步骤：配置 git
-    - name: Configure Git
+    - name: 配置 Git
       run: |
         git config --global user.name 'y0123456789'
         git config --global user.email '52168408+y0123456789@users.noreply.github.com'
       
-# 第九个步骤：提交和推送变更到 gh-pages 分支
-    - name: Commit and Push Changes
+    - name: 提交和推送变更到 gh-pages 分支
       run: |
-          git checkout -B gh-pages
-          git rm -rf .
-          git checkout main -- CNAME
-          if [ ! -f "./CNAME" ]; then
+        git checkout -B gh-pages
+        git rm -rf .
+        git checkout main -- CNAME
+        if [ ! -f "./CNAME" ]; then
           cp CNAME .
-          fi
-          cp -R deploy/* .
-          git add .
-          git commit -m "Update files"
-          git push -f origin gh-pages
+        fi
+        cp -R deploy/* .
+        git add .
+        git commit -m "Update files"
+        git push -f origin gh-pages
