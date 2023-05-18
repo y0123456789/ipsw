@@ -35,7 +35,9 @@ for device_key, device_name in devices.items():
         for firmware1 in data1.get("firmwares", []):
             filtered_firmware1 = {
                 "id": firmware1.get("id"),
-                "version": firmware1.get("version"),
+                "version": "iOS " + firmware1.get("version") if device_name == "iPhone" else
+                           "iPadOS " + firmware1.get("version") if device_name == "iPad" else
+                           "MacOS " + firmware1.get("version") if device_name == "Mac" else firmware1.get("version"),
                 "build_id": firmware1.get("build_id"),
                 "size": firmware1.get("size"),
                 "url": firmware1.get("url"),
