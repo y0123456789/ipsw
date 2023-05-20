@@ -46,7 +46,7 @@ for device_key, device_name in devices.items():
                            "iPadOS " + firmware1.get("version") if device_name == "iPad" else
                            "MacOS " + firmware1.get("version") if device_name == "Mac" else firmware1.get("version"),
                 "build_id": firmware1.get("build_id"),
-                "size": f"{round(firmware1.get("size") / 1073741824, 2):.2f}GB",
+                "size": f"{round(firmware1.get('size') / 1073741824, 2):.2f}GB",
                 "url": firmware1.get("url"),
                 "created_at": firmware1.get("created_at"),
                 "type": firmware1.get("type"),
@@ -71,7 +71,7 @@ for device_key, device_name in devices.items():
                     "id": firmware2.get("id"),
                     "version": firmware2.get("version"),
                     "build_id": firmware2.get("build_id"),
-                    "size": f"{round(firmware2.get("size") / 1073741824, 2):.2f}GB",
+                    "size": f"{round(firmware2.get('size') / 1073741824, 2):.2f}GB",
                     "url": firmware2.get("url"),
                     "created_at": firmware2.get("created_at"),
                     "type": firmware2.get("type"),
