@@ -86,6 +86,7 @@ for device_key, device_name in devices.items():
 
     # 将每个固件数据中的created_at和release_date转换为年月日格式   
     for data in all_data:
+        data["release_date"] = format_date(data["release_date"])
         for firmware in data["firmwares"]:
             firmware["created_at"] = format_date(firmware["created_at"])
 
