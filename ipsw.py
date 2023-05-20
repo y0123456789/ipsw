@@ -84,11 +84,12 @@ for device_key, device_name in devices.items():
 
         all_data.append(filtered_data1)
 
-    # 将每个固件数据中的created_at和release_date转换为年月日格式
+    # 将每个固件数据中的created_at和release_date转换为年月日格式   
     for data in all_data:
+        "release_date" = format_date("release_date")
         for firmware in data["firmwares"]:
             firmware["created_at"] = format_date(firmware["created_at"])
-            firmware["release_date"] = format_date(firmware["release_date"])
+
 
     # 输出为JSON格式并保存为相应设备名称的文件
     output_json = json.dumps(all_data, ensure_ascii=False)
