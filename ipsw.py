@@ -25,7 +25,6 @@ for device_key, device_name in devices.items():
 
         filtered_data1 = {
             "id": data1.get("id"),
-            "updated_at": data1.get("updated_at"),
             "name": data1.get("name"),
             "identifier": data1.get("identifier"),
             "release_date": data1.get("release_date"),
@@ -33,6 +32,8 @@ for device_key, device_name in devices.items():
         }
 
         for firmware1 in data1.get("firmwares", []):
+            created_at1 = firmware1.get("created_at")
+            converted_created_at1 = datetime.datetime.strptime(created_at1, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
             filtered_firmware1 = {
                 "id": firmware1.get("id"),
                 "version": "iOS " + firmware1.get("version") if device_name == "iPhone" else
@@ -41,7 +42,7 @@ for device_key, device_name in devices.items():
                 "build_id": firmware1.get("build_id"),
                 "size": firmware1.get("size"),
                 "url": firmware1.get("url"),
-                "created_at": firmware1.get("created_at"),
+                "created_at": converted_created_at1,
                 "type": firmware1.get("type"),
                 "signing": firmware1.get("signing")
             }
@@ -61,13 +62,15 @@ for device_key, device_name in devices.items():
             }
 
             for firmware2 in data2.get("firmwares", []):
+                created_at1 = firmware1.get("created_at")
+                converted_created_at1 = datetime.datetime.strptime(created_at1, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
                 filtered_firmware2 = {
                     "id": firmware2.get("id"),
                     "version": firmware2.get("version"),
                     "build_id": firmware2.get("build_id"),
                     "size": firmware2.get("size"),
                     "url": firmware2.get("url"),
-                    "created_at": firmware2.get("created_at"),
+                    "created_at": converted_created_at1,
                     "type": firmware2.get("type"),
                     "signing": firmware2.get("signing")
                 }
