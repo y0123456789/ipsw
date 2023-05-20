@@ -33,7 +33,6 @@ for device_key, device_name in devices.items():
 
         filtered_data1 = {
             "id": data1.get("id"),
-            "updated_at": data1.get("updated_at"),
             "name": data1.get("name"),
             "identifier": data1.get("identifier"),
             "release_date": data1.get("release_date"),
@@ -47,7 +46,7 @@ for device_key, device_name in devices.items():
                            "iPadOS " + firmware1.get("version") if device_name == "iPad" else
                            "MacOS " + firmware1.get("version") if device_name == "Mac" else firmware1.get("version"),
                 "build_id": firmware1.get("build_id"),
-                "size": firmware1.get("size"),
+                "size": round(firmware1.get("size") / 1073741824, 2)+"GB",
                 "url": firmware1.get("url"),
                 "created_at": firmware1.get("created_at"),
                 "type": firmware1.get("type"),
@@ -61,7 +60,6 @@ for device_key, device_name in devices.items():
 
             filtered_data2 = {
                 "id": data2.get("id"),
-                "updated_at": data2.get("updated_at"),
                 "name": data2.get("name"),
                 "identifier": data2.get("identifier"),
                 "release_date": data2.get("release_date"),
@@ -73,7 +71,7 @@ for device_key, device_name in devices.items():
                     "id": firmware2.get("id"),
                     "version": firmware2.get("version"),
                     "build_id": firmware2.get("build_id"),
-                    "size": firmware2.get("size"),
+                    "size": round(firmware2.get("size") / 1073741824, 2)+"GB",
                     "url": firmware2.get("url"),
                     "created_at": firmware2.get("created_at"),
                     "type": firmware2.get("type"),
