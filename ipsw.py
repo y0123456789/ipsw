@@ -1,5 +1,6 @@
 import requests
 import json
+import datetime
 
 devices = {
     "device1": "iPhone",
@@ -22,12 +23,16 @@ for device_key, device_name in devices.items():
 
         response1 = requests.get(url1)
         data1 = response1.json()
+        
+        release_date_str = data1.get("release_date")
+        release_date_obj = datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
+        formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
 
         filtered_data1 = {
             "id": data1.get("id"),
             "name": data1.get("name"),
             "identifier": data1.get("identifier"),
-            "release_date": data1.get("release_date"),
+            "release_date": formatted_release_date,
             "firmwares": []
         }
 
@@ -51,13 +56,17 @@ for device_key, device_name in devices.items():
         if url2:
             response2 = requests.get(url2)
             data2 = response2.json()
+            
+            release_date_str = data2.get("release_date")
+            release_date_obj = datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
+            formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
 
             filtered_data2 = {
                 "id": data2.get("id"),
                 "updated_at": data2.get("updated_at"),
                 "name": data2.get("name"),
                 "identifier": data2.get("identifier"),
-                "release_date": data2.get("release_date"),
+                "release_date": formatted_release_date,
                 "firmwares": []
             }
 
