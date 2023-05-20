@@ -2,6 +2,13 @@ import requests
 import json
 import datetime
 
+def format_date(date_str):
+    # 将日期字符串解析为datetime对象
+    date = datetime.datetime.fromisoformat(date_str)
+
+    # 将datetime对象转换为年月日格式字符串
+    return date.strftime("%Y.%m.%d")
+
 devices = {
     "device1": "iPhone",
     "device2": "iPad",
@@ -24,21 +31,16 @@ for device_key, device_name in devices.items():
         response1 = requests.get(url1)
         data1 = response1.json()
 
-        release_date_str = data1.get("release_date")
-        release_date_obj = datetime.datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
-        formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
-
         filtered_data1 = {
             "id": data1.get("id"),
+            "updated_at": data1.get("updated_at"),
             "name": data1.get("name"),
             "identifier": data1.get("identifier"),
-            "release_date": formatted_release_date,
+            "release_date": data1.get("release_date"),
             "firmwares": []
         }
 
         for firmware1 in data1.get("firmwares", []):
-            created_at1 = firmware1.get("created_at")
-            converted_created_at1 = datetime.datetime.strptime(created_at1, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
             filtered_firmware1 = {
                 "id": firmware1.get("id"),
                 "version": "iOS " + firmware1.get("version") if device_name == "iPhone" else
@@ -47,7 +49,7 @@ for device_key, device_name in devices.items():
                 "build_id": firmware1.get("build_id"),
                 "size": firmware1.get("size"),
                 "url": firmware1.get("url"),
-                "created_at": converted_created_at1,
+                "created_at": firmware1.get("created_at"),
                 "type": firmware1.get("type"),
                 "signing": firmware1.get("signing")
             }
@@ -57,29 +59,23 @@ for device_key, device_name in devices.items():
             response2 = requests.get(url2)
             data2 = response2.json()
 
-            release_date_str = data2.get("release_date")
-            release_date_obj = datetime.datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
-            formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
-
             filtered_data2 = {
                 "id": data2.get("id"),
                 "updated_at": data2.get("updated_at"),
                 "name": data2.get("name"),
                 "identifier": data2.get("identifier"),
-                "release_date": formatted_release_date,
+                "release_date": data2.get("release_date"),
                 "firmwares": []
             }
 
             for firmware2 in data2.get("firmwares", []):
-                created_at2 = firmware2.get("created_at")
-                converted_created_at2 = datetime.datetime.strptime(created_at2, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
                 filtered_firmware2 = {
                     "id": firmware2.get("id"),
                     "version": firmware2.get("version"),
                     "build_id": firmware2.get("build_id"),
                     "size": firmware2.get("size"),
                     "url": firmware2.get("url"),
-                    "created_at": converted_created_at2,
+                    "created_at": firmware2.get("created_at"),
                     "type": firmware2.get("type"),
                     "signing": firmware2.get("signing")
                 }
@@ -89,6 +85,12 @@ for device_key, device_name in devices.items():
                 filtered_data1["firmwares"].extend(filtered_data2["firmwares"])
 
         all_data.append(filtered_data1)
+
+    # 将每个固件数据中的created_at和release_date转换为年月日格式
+    for data in all_data:
+        for firmware in data["firmwares"]:
+            firmware["created_at"] = format_date(firmware["created_at"])
+            firmware["release_date"] = format_date(firmware["release_date"])
 
     # 输出为JSON格式并保存为相应设备名称的文件
     output_json = json.dumps(all_data, ensure_ascii=False)
