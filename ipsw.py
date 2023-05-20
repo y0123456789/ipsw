@@ -1,6 +1,6 @@
 import requests
 import json
-from dateutil.parser import parse
+import datetime
 
 devices = {
     "device1": "iPhone",
@@ -25,7 +25,7 @@ for device_key, device_name in devices.items():
         data1 = response1.json()
 
         release_date_str = data1.get("release_date")
-        release_date_obj = parse(release_date_str)
+        release_date_obj = datetime.datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
         formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
 
         filtered_data1 = {
@@ -38,7 +38,7 @@ for device_key, device_name in devices.items():
 
         for firmware1 in data1.get("firmwares", []):
             created_at1 = firmware1.get("created_at")
-            converted_created_at1 = parse(created_at1).strftime("%Y.%m.%d")
+            converted_created_at1 = datetime.datetime.strptime(created_at1, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
             filtered_firmware1 = {
                 "id": firmware1.get("id"),
                 "version": "iOS " + firmware1.get("version") if device_name == "iPhone" else
@@ -58,7 +58,7 @@ for device_key, device_name in devices.items():
             data2 = response2.json()
 
             release_date_str = data2.get("release_date")
-            release_date_obj = parse(release_date_str)
+            release_date_obj = datetime.datetime.strptime(release_date_str, "%Y-%m-%dT%H:%M:%S.%f%z")
             formatted_release_date = release_date_obj.strftime("%Y.%m.%d")
 
             filtered_data2 = {
@@ -72,7 +72,7 @@ for device_key, device_name in devices.items():
 
             for firmware2 in data2.get("firmwares", []):
                 created_at2 = firmware2.get("created_at")
-                converted_created_at2 = parse(created_at2).strftime("%Y.%m.%d")
+                converted_created_at2 = datetime.datetime.strptime(created_at2, "%Y-%m-%dT%H:%M:%S.%f%z").strftime("%Y.%m.%d")
                 filtered_firmware2 = {
                     "id": firmware2.get("id"),
                     "version": firmware2.get("version"),
