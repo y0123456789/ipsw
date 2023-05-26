@@ -5,7 +5,7 @@ on:
   push:
   schedule:
     - cron: "*/40 17-19 * * *"
-    - cron: "0 2,10 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 # 定义访问权限，这里表示需要访问仓库的 contents 和 deployments 权限
