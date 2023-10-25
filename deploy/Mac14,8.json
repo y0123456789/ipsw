@@ -1,0 +1,268 @@
+{
+    "id": 182,
+    "name": "Mac Pro (2023)",
+    "identifier": "Mac14,8",
+    "release_date": "2023-09-13T01:00:00+08:00",
+    "firmwares": [
+        {
+            "id": 7237,
+            "version": "MacOS 13.6",
+            "build_id": "22G120",
+            "size": "12.01GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-55833/C0830847-A2F8-458F-B680-967991820931/UniversalMac_13.6_22G120_Restore.ipsw",
+            "created_at": "2023-09-22T01:48:15.595+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7278,
+            "version": "MacOS 14.0",
+            "build_id": "23A344",
+            "size": "12.95GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-54934/0E101AD6-3117-4B63-9BF1-143B6DB9270A/UniversalMac_14.0_23A344_Restore.ipsw",
+            "created_at": "2023-09-27T01:17:25.698+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7158,
+            "version": "MacOS 13.5.2",
+            "build_id": "22G91",
+            "size": "12.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-43686/945D434B-DA5D-48DB-A558-F6D18D11AD69/UniversalMac_13.5.2_22G91_Restore.ipsw",
+            "created_at": "2023-09-08T02:10:51.938+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7026,
+            "version": "MacOS 13.5.1",
+            "build_id": "22G90",
+            "size": "12.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-25658/2D6BE8DB-5549-4F85-8C54-39FC23BABC68/UniversalMac_13.5.1_22G90_Restore.ipsw",
+            "created_at": "2023-08-18T13:21:09.915+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 6885,
+            "version": "MacOS 13.5",
+            "build_id": "22G74",
+            "size": "12.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/032-69606/D3E05CDF-E105-434C-A4A1-4E3DC7668DD0/UniversalMac_13.5_22G74_Restore.ipsw",
+            "created_at": "2023-07-24T17:52:53.579+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 6671,
+            "version": "MacOS 13.4.1",
+            "build_id": "22F2083",
+            "size": "11.68GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/042-01864/A8378F91-BA71-40DF-8F0D-606A16F1836B/UniversalMac_13.4.1_22F2083_Restore.ipsw",
+            "created_at": "2023-06-21T17:47:23.756+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 6521,
+            "version": "MacOS 13.4",
+            "build_id": "22F2073",
+            "size": "11.68GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-84616/FD498BA4-F00E-4CC3-9E21-393DEC4D41B4/UniversalMac_13.4_22F2073_Restore.ipsw",
+            "created_at": "2023-06-06T04:17:45.987+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7491,
+            "version": "macOS 14.1 Release Candidate",
+            "build_id": "23B73",
+            "size": "13.02GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-10900/347B734E-BC0B-41FA-9671-8000FCB5B0BB/UniversalMac_14.1_23B73_Restore.ipsw",
+            "created_at": "2023-10-18T01:41:29.612+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7449,
+            "version": "macOS 14.1 beta 3",
+            "build_id": "23B5067a",
+            "size": "13.01GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-73325/B24FC9CF-34D1-44A6-B977-FA718FE83DEB/UniversalMac_14.1_23B5067a_Restore.ipsw",
+            "created_at": "2023-10-11T01:24:27.198+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7379,
+            "version": "macOS 14.1 beta 2",
+            "build_id": "23B5056e",
+            "size": "12.96GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65885/0FA6C4A7-C21A-4A5F-84C8-8FEE0D98A153/UniversalMac_14.1_23B5056e_Restore.ipsw",
+            "created_at": "2023-10-04T01:48:29.454+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7343,
+            "version": "macOS 14.1 beta",
+            "build_id": "23B5046f",
+            "size": "12.95GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-60177/C4B6F5B3-8B66-461A-A048-4A9925F36FCD/UniversalMac_14.1_23B5046f_Restore.ipsw",
+            "created_at": "2023-09-28T02:48:21.684+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7236,
+            "version": "macOS 14 Release Candidate 2",
+            "build_id": "23A344",
+            "size": "12.95GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-54934/0E101AD6-3117-4B63-9BF1-143B6DB9270A/UniversalMac_14.0_23A344_Restore.ipsw",
+            "created_at": "2023-09-22T01:47:09.239+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 6876,
+            "version": "macOS 13.5 RC",
+            "build_id": "22G74",
+            "size": "12.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/032-69606/D3E05CDF-E105-434C-A4A1-4E3DC7668DD0/UniversalMac_13.5_22G74_Restore.ipsw",
+            "created_at": "2023-07-18T17:51:24.085+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7196,
+            "version": "macOS 14 Release Candidate",
+            "build_id": "23A339",
+            "size": "12.95GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/002-81996/596571C1-9856-4BB3-B5BF-B5A48F4B406E/UniversalMac_14.0_23A339_Restore.ipsw",
+            "created_at": "2023-09-13T09:23:44.469+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7120,
+            "version": "macOS 14 beta 7",
+            "build_id": "23A5337a ",
+            "size": "12.87GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-41500/D1789AEF-013B-4112-8A1E-401589023267/UniversalMac_14.0_23A5337a_Restore.ipsw",
+            "created_at": "2023-08-31T19:11:49.919+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7087,
+            "version": "macOS 14 beta 6",
+            "build_id": "23A5328b",
+            "size": "12.87GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-37824/AA6B32A0-3C2C-4BEB-95A1-64E601934330/UniversalMac_14.0_23A5328b_Restore.ipsw",
+            "created_at": "2023-08-23T01:37:47.49+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7023,
+            "version": "macOS 14 beta 5",
+            "build_id": "23A5312d",
+            "size": "12.95GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-27168/7E046825-8EBA-4AAE-8ECC-DDD51B9306D2/UniversalMac_14.0_23A5312d_Restore.ipsw",
+            "created_at": "2023-08-08T17:39:24.562+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6992,
+            "version": "macOS 14 beta 4",
+            "build_id": "23A5301h",
+            "size": "13.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-25548/9EA6EC3D-5A7D-4D53-A17C-70EE71393921/UniversalMac_14.0_23A5301h_Restore.ipsw",
+            "created_at": "2023-07-31T20:20:53.295+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6960,
+            "version": "macOS 14 beta 4",
+            "build_id": "23A5301g",
+            "size": "13.01GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-16919/B9F6937B-F5CA-40BD-88DB-370E955F136D/UniversalMac_14.0_23A5301g_Restore.ipsw",
+            "created_at": "2023-07-25T18:12:52.03+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6839,
+            "version": "macOS 14 beta 3",
+            "build_id": "23A5286i",
+            "size": "13.08GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-13887/3B4075C1-B695-49EA-82D9-4B720699D341/UniversalMac_14.0_23A5286i_Restore.ipsw",
+            "created_at": "2023-07-11T17:30:44.331+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6808,
+            "version": "macOS 13.5 beta 5",
+            "build_id": "22G5072a",
+            "size": "11.99GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-09570/8DA0B0AA-6FD4-42C4-A54E-BC0D53B92AC0/UniversalMac_13.5_22G5072a_Restore.ipsw",
+            "created_at": "2023-07-10T17:25:17.317+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6771,
+            "version": "macOS 14 beta 3",
+            "build_id": "23A5286g",
+            "size": "13.08GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-06324/379026FA-C14F-4095-99FD-19F607D10EBF/UniversalMac_14.0_23A5286g_Restore.ipsw",
+            "created_at": "2023-07-05T18:11:37.463+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6739,
+            "version": "macOS 13.5 beta 4",
+            "build_id": "22G5059d",
+            "size": "12.00GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-03209/55CBE04D-FD90-483B-A6D7-45E0FBC1C94F/UniversalMac_13.5_22G5059d_Restore.ipsw",
+            "created_at": "2023-06-27T17:47:21.962+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6702,
+            "version": "macOS 14 beta 2",
+            "build_id": "23A5257q",
+            "size": "13.05GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-95861/67600C59-8516-4A46-B9D7-4007D395CEF5/UniversalMac_14.0_23A5276g_Restore.ipsw",
+            "created_at": "2023-06-21T20:23:11.188+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6626,
+            "version": "macOS 13.5 beta 3",
+            "build_id": "22G5048d",
+            "size": "11.99GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-93679/1D39F2AC-8FD4-46A3-A159-478C76472B16/UniversalMac_13.5_22G5048d_Restore.ipsw",
+            "created_at": "2023-06-15T18:46:51.879+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6552,
+            "version": "macOS 14 beta",
+            "build_id": "23A5257q",
+            "size": "13.11GB",
+            "url": "https://download.developer.apple.com/WWDC_2023/macOS_14_Beta_Restore_Images/UniversalMac_14.0_23A5257q_Restore.ipsw",
+            "created_at": "2023-06-06T05:13:38.782+08:00",
+            "type": 2,
+            "signing": -1
+        }
+    ]
+}

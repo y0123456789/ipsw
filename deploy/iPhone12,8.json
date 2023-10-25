@@ -1,0 +1,1538 @@
+{
+    "id": 87,
+    "name": "iPhone SE (2020)",
+    "identifier": "iPhone12,8",
+    "release_date": "2020-04-16T01:00:00+08:00",
+    "firmwares": [
+        {
+            "id": 7405,
+            "version": "iOS 17.0.3",
+            "build_id": "21A360",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-71950/48FC7A79-19A9-4A9F-ADA5-CE12DAF4041A/iPhone12,8_17.0.3_21A360_Restore.ipsw",
+            "created_at": "2023-10-05T01:27:02.619+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7293,
+            "version": "iOS 17.0.2",
+            "build_id": "21A351",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-64829/0953880A-A084-4896-890E-F5C016E5339B/iPhone12,8_17.0.2_21A351_Restore.ipsw",
+            "created_at": "2023-09-27T03:55:24.818+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7276,
+            "version": "iOS 17.0.1",
+            "build_id": "21A340",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-55253/4BDADE76-F762-4710-9A01-9D6A10182EE1/iPhone12,8_17.0.1_21A340_Restore.ipsw",
+            "created_at": "2023-09-22T02:22:53.839+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 7220,
+            "version": "iOS 17.0",
+            "build_id": "21A329 ",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49507/97FFA194-BA81-429A-A1B2-A5EA5164E23E/iPhone12,8_17.0_21A329_Restore.ipsw",
+            "created_at": "2023-09-19T03:08:04.156+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 7157,
+            "version": "iOS 16.6.1",
+            "build_id": "20G81",
+            "size": "5.95GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44058/662C9F71-4560-49A3-B880-38DD8FC01315/iPhone12,8_16.6.1_20G81_Restore.ipsw",
+            "created_at": "2023-09-08T02:10:43.945+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6908,
+            "version": "iOS 16.6",
+            "build_id": "20G75",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17402/C837CECD-C19C-4A56-B71F-C06C2AB9F869/iPhone12,8_16.6_20G75_Restore.ipsw",
+            "created_at": "2023-07-24T18:25:22.15+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6653,
+            "version": "iOS 16.5.1",
+            "build_id": "20F75",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/042-02748/C32D044D-7C86-4ECF-B97D-0E2056E5C37A/iPhone12,8_16.5.1_20F75_Restore.ipsw",
+            "created_at": "2023-06-21T17:47:09.558+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6465,
+            "version": "iOS 16.5",
+            "build_id": "20F66",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85464/B29DC12A-DA65-4CBA-BB13-DBFDAC9BEA73/iPhone12,8_16.5_20F66_Restore.ipsw",
+            "created_at": "2023-05-18T17:56:47.925+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6226,
+            "version": "iOS 16.4.1",
+            "build_id": "20E252",
+            "size": "5.93GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-71386/9DBDED8E-5D2E-4A21-9FC7-266716F52B87/iPhone12,8_16.4.1_20E252_Restore.ipsw",
+            "created_at": "2023-04-07T18:12:11.376+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6147,
+            "version": "iOS 16.4",
+            "build_id": "20E247",
+            "size": "5.93GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-67929/CC4C9D1B-7516-4AD9-8CD8-1F9E0010B924/iPhone12,8_16.4_20E247_Restore.ipsw",
+            "created_at": "2023-03-27T18:08:45.948+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5910,
+            "version": "iOS 16.3.1",
+            "build_id": "20D67",
+            "size": "5.71GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-49348/9D52282F-E353-43F5-925F-5320987F4008/iPhone12,8_16.3.1_20D67_Restore.ipsw",
+            "created_at": "2023-02-13T20:17:45.723+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5891,
+            "version": "iOS 16.3",
+            "build_id": "20D47",
+            "size": "5.71GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35872/5B4EFBFB-B0CD-41B3-8F44-40990F3C9048/iPhone12,8_16.3_20D47_Restore.ipsw",
+            "created_at": "2023-01-24T05:39:30.139+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5756,
+            "version": "iOS 16.2",
+            "build_id": "20C65",
+            "size": "5.71GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-13988/2227226F-BD97-4341-AB08-6606BA4718E2/iPhone12,8_16.2_20C65_Restore.ipsw",
+            "created_at": "2022-12-14T02:49:42.78+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5623,
+            "version": "iOS 16.1.2",
+            "build_id": "20B110",
+            "size": "5.64GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-11264/A45ACEBC-6054-4204-A5FF-D265AC78AB48/iPhone12,8_16.1.2_20B110_Restore.ipsw",
+            "created_at": "2022-12-01T03:24:38.921+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5547,
+            "version": "iOS 16.1.1",
+            "build_id": "20B101",
+            "size": "5.64GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-97023/92B670A8-AFDB-4BDF-A9F2-BEA71C4D3638/iPhone12,8_16.1.1_20B101_Restore.ipsw",
+            "created_at": "2022-11-10T02:09:22.396+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5485,
+            "version": "iOS 16.1",
+            "build_id": "20B82",
+            "size": "5.64GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93088/CBCD7A95-E903-4BC8-BB18-824B3766E420/iPhone12,8_16.1_20B82_Restore.ipsw",
+            "created_at": "2022-10-25T01:29:03.857+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5337,
+            "version": "iOS 16.0.3",
+            "build_id": "20A392",
+            "size": "5.60GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-73337/23B17275-3378-4896-ACFD-FD6892EDF4C0/iPhone12,8_16.0.3_20A392_Restore.ipsw",
+            "created_at": "2022-10-12T01:10:08.904+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5249,
+            "version": "iOS 16.0.2",
+            "build_id": "20A380",
+            "size": "5.60GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-72654/80638AF6-F6FF-48D0-AE45-5502258F0B76/iPhone12,8_16.0.2_20A380_Restore.ipsw",
+            "created_at": "2022-09-23T04:55:37.558+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5159,
+            "version": "iOS 16.0",
+            "build_id": "20A362",
+            "size": "5.60GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65921/85E1CD1A-93DF-48BD-9DD2-CF2456C6CC46/iPhone12,8_16.0_20A362_Restore.ipsw",
+            "created_at": "2022-09-13T01:10:57.559+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5008,
+            "version": "iOS 15.6.1",
+            "build_id": "19G82",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52400/C76C51A6-2DD7-4F78-9E36-BBB511F85908/iPhone12,8_15.6.1_19G82_Restore.ipsw",
+            "created_at": "2022-08-18T01:20:58.167+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4879,
+            "version": "iOS 15.6",
+            "build_id": "19G71",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41692/AA236B3F-E922-43DA-8239-84662B84B1A8/iPhone12,8_15.6_19G71_Restore.ipsw",
+            "created_at": "2022-07-21T01:24:50.596+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4436,
+            "version": "iOS 15.5",
+            "build_id": "19F77",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07240/7A7CACB1-0332-4DF3-9364-39302722C864/iPhone12,8_15.5_19F77_Restore.ipsw",
+            "created_at": "2022-05-17T01:54:12.383+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4203,
+            "version": "iOS 15.4.1",
+            "build_id": "19E258",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-81257/89A3B695-C497-438E-B692-487D4BAABE46/iPhone12,8_15.4.1_19E258_Restore.ipsw",
+            "created_at": "2022-04-01T02:20:47.378+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4147,
+            "version": "iOS 15.4",
+            "build_id": "19E241",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09695/0CFF5CC4-6198-4D0E-B0BB-A8B27CE8AF6A/iPhone12,8_15.4_19E241_Restore.ipsw",
+            "created_at": "2022-03-15T01:56:05.731+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3985,
+            "version": "iOS 15.3.1",
+            "build_id": "19D52",
+            "size": "5.77GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-64116/ED161F7F-36CE-4A7B-9C7E-A7F8DFCC1CA4/iPhone12,8_15.3.1_19D52_Restore.ipsw",
+            "created_at": "2022-02-11T09:14:03.841+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3130,
+            "version": "iOS 15.3",
+            "build_id": "19D50",
+            "size": "5.73GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-57168/B0670558-04CF-4B6B-A649-8C321655B81E/iPhone12,8_15.3_19D50_Restore.ipsw",
+            "created_at": "2022-01-27T10:02:48.98+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3179,
+            "version": "iOS 15.2.1",
+            "build_id": "19C63",
+            "size": "5.78GB",
+            "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/002-51660/A44A7855-442F-44EF-92AF-9141D1F5FCCF/iPhone12,8_15.2.1_19C63_Restore.ipsw",
+            "created_at": "2022-01-29T20:05:13.46+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3121,
+            "version": "iOS 15.2",
+            "build_id": "19C56",
+            "size": "5.78GB",
+            "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/071-91879/1A64AA68-72A1-4A9C-8725-F4A451F7F792/iPhone12,8_15.2_19C56_Restore.ipsw",
+            "created_at": "2021-12-14T12:25:28.173+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 278,
+            "version": "iOS 15.1",
+            "build_id": "19B74",
+            "size": "5.76GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-63905/12C7A7F8-9E84-4317-8AEF-EA3EF3A6800D/iPhone12,8_15.1_19B74_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.563+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 286,
+            "version": "iOS 15.0.2",
+            "build_id": "19A404",
+            "size": "5.74GB",
+            "url": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-14326/8FD4229B-E8E8-40F1-9536-0E7DAD3AF513/iPhone12,8_15.0.2_19A404_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.688+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 287,
+            "version": "iOS 15.0.1",
+            "build_id": "19A348",
+            "size": "5.74GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-09890/A0FBAC46-7824-45FE-A82D-131E361BE65F/iPhone12,8_15.0.1_19A348_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.705+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 290,
+            "version": "iOS 15.0",
+            "build_id": "19A346",
+            "size": "5.74GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-03411/6CC05668-C39F-481B-B0F5-A6753B87E873/iPhone12,8_15.0_19A346_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.763+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 272,
+            "version": "iOS 14.8",
+            "build_id": "18H17",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97992/19F05FFE-6325-41C7-950F-01786D284470/iPhone12,8_14.8_18H17_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.479+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 288,
+            "version": "iOS 14.7.1",
+            "build_id": "18G82",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-73816/A61862A9-5CDB-4A3C-B57D-2EDA84918D36/iPhone12,8_14.7.1_18G82_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.72+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 273,
+            "version": "iOS 14.7",
+            "build_id": "18G69",
+            "size": "4.97GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-71123/87EA546B-4AE2-47B6-AC57-5D3FEFD9BC3A/iPhone12,8_14.7_18G69_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.491+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 279,
+            "version": "iOS 14.6",
+            "build_id": "18F72",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-45316/E379EE23-B364-4F8F-846E-30A5D865C323/iPhone12,8_14.6_18F72_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.576+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 291,
+            "version": "iOS 14.5.1",
+            "build_id": "18E212",
+            "size": "4.94GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-34250/9BD2B22D-817D-4ED7-A278-71A3AED7257C/iPhone12,8_14.5.1_18E212_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.778+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 292,
+            "version": "iOS 14.5",
+            "build_id": "18E199",
+            "size": "4.94GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-17684/17E6DB61-D6F8-49CC-A946-43E1B0B7DBCB/iPhone12,8_14.5_18E199_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.79+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 280,
+            "version": "iOS 14.4.2",
+            "build_id": "18D70",
+            "size": "4.80GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-22599/73CFA24E-F391-4E77-8CAF-36207D7BE02A/iPhone12,8_14.4.2_18D70_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.592+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 274,
+            "version": "iOS 14.4.1",
+            "build_id": "18D61",
+            "size": "4.80GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12041/54388907-83EF-4755-9620-4E8E002DE1AA/iPhone12,8_14.4.1_18D61_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.503+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 281,
+            "version": "iOS 14.4",
+            "build_id": "18D52",
+            "size": "4.80GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-98781/6298B7D2-ABFD-4D7F-B987-F0799B8922FC/iPhone12,8_14.4_18D52_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.61+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 293,
+            "version": "iOS 14.3",
+            "build_id": "18C66",
+            "size": "4.80GB",
+            "url": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87462/F5819D79-DFFC-4B33-A039-5A529AB9D560/iPhone12,8_14.3_18C66_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.802+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 282,
+            "version": "iOS 14.2",
+            "build_id": "18B92",
+            "size": "4.73GB",
+            "url": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-73415/2F802334-F9B4-4A28-8D40-5B6B1458662A/iPhone12,8_14.2_18B92_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.628+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 294,
+            "version": "iOS 14.1",
+            "build_id": "18A8395",
+            "size": "4.64GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-56531/E751A963-215C-4CAC-ABF1-AD22BC5FAF7D/iPhone12,8_14.1_18A8395_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.814+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 283,
+            "version": "iOS 14.0.1",
+            "build_id": "18A393",
+            "size": "4.63GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-50299/3C983AC0-7A7D-4FB7-943A-AE00886C1714/iPhone12,8_14.0.1_18A393_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.644+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 295,
+            "version": "iOS 14.0",
+            "build_id": "18A373",
+            "size": "4.63GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-46684/369C21DF-DC35-4930-9EEE-44327D591D6B/iPhone12,8_14.0_18A373_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.826+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 276,
+            "version": "iOS 13.7",
+            "build_id": "17H35",
+            "size": "3.92GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-41864/B893F404-59F4-4D01-AFF4-968FF1F453E2/iPhone12,8_13.7_17H35_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.532+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 277,
+            "version": "iOS 13.6.1",
+            "build_id": "17G80",
+            "size": "3.92GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-29348/F87E6EE1-24FF-47B4-A108-44A62106827F/iPhone12,8_13.6.1_17G80_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.548+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 275,
+            "version": "iOS 13.6",
+            "build_id": "17G68",
+            "size": "3.91GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerSeed/fullrestores/061-93257/58F82E5D-AC7E-44BF-9F9D-37F865AE77AD/iPhone12,8_13.6_17G68_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.519+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 284,
+            "version": "iOS 13.5.1",
+            "build_id": "17F80",
+            "size": "3.88GB",
+            "url": "http://updates-http.cdn-apple.com/2020SpringFCS/fullrestores/001-09253/5B78C390-A082-11EA-8986-71EDF1CFE6E8/iPhone12,8_13.5.1_17F80_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.661+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 289,
+            "version": "iOS 13.5",
+            "build_id": "17F75",
+            "size": "3.88GB",
+            "url": "http://updates-http.cdn-apple.com/2020SpringFCS/fullrestores/061-71887/23B12F04-1BBF-4D8A-87B3-530005A826F5/iPhone12,8_13.5_17F75_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.741+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 285,
+            "version": "iOS 13.4.1",
+            "build_id": "17E8258",
+            "size": "3.83GB",
+            "url": "http://updates-http.cdn-apple.com/2020SpringFCS/fullrestores/061-95978/54ED926A-AF63-4377-BEC4-F371ADA9D816/iPhone12,8_13.4.1_17E8258_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:49.675+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 7477,
+            "version": "iOS 17.1 Release Candidate",
+            "build_id": "21B74",
+            "size": "6.79GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-07797/B21C9BF5-C65D-47D8-A8EE-2B8EC6DB5B8A/iPhone12,8_17.1_21B74_Restore.ipsw",
+            "created_at": "2023-10-18T01:41:27.478+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7435,
+            "version": "iOS 17.1 beta 3",
+            "build_id": "21B5066a",
+            "size": "6.79GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-74376/42EA8022-B559-494B-A758-E7EF5D622E62/iPhone12,8_17.1_21B5066a_Restore.ipsw",
+            "created_at": "2023-10-11T01:24:24.839+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7365,
+            "version": "iOS 17.1 beta 2",
+            "build_id": "21B5056e",
+            "size": "6.80GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65763/95835624-C14E-40EA-B4C2-0EACB49E3631/iPhone12,8_17.1_21B5056e_Restore.ipsw",
+            "created_at": "2023-10-04T01:48:27.22+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7329,
+            "version": "iOS 17.1 beta",
+            "build_id": "21B5045h",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65171/B5F27F24-062B-447C-BCD5-E44511B3C7B1/iPhone12,8_17.1_21B5045h_Restore.ipsw",
+            "created_at": "2023-09-28T02:48:19.504+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7182,
+            "version": "iOS 17 Release Candidate",
+            "build_id": "21A329 ",
+            "size": "6.77GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49507/97FFA194-BA81-429A-A1B2-A5EA5164E23E/iPhone12,8_17.0_21A329_Restore.ipsw",
+            "created_at": "2023-09-13T09:23:41.775+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7105,
+            "version": "iOS 17 beta 8",
+            "build_id": "21A5326a ",
+            "size": "6.70GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-38451/9BD6757B-D268-413F-BE6D-FB35BE49CA57/iPhone12,8_17.0_21A5326a_Restore.ipsw",
+            "created_at": "2023-08-30T01:43:54.018+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7073,
+            "version": "iOS 17 beta 7",
+            "build_id": "21A5319a ",
+            "size": "6.70GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-37067/B05E2EDE-3A8E-4756-8512-68A34E20D008/iPhone12,8_17.0_21A5319a_Restore.ipsw",
+            "created_at": "2023-08-23T01:37:46.295+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7042,
+            "version": "iOS 17 beta 6",
+            "build_id": "21A5312c ",
+            "size": "6.70GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-30126/78C836CD-6047-456D-A93E-37B9820406C9/iPhone12,8_17.0_21A5312c_Restore.ipsw",
+            "created_at": "2023-08-18T13:28:48.844+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 7009,
+            "version": "iOS 17 beta 5",
+            "build_id": "21A5303d ",
+            "size": "6.69GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-26969/E32800AE-405B-4D87-9BCE-D1268C575802/iPhone12,8_17.0_21A5303d_Restore.ipsw",
+            "created_at": "2023-08-08T17:39:22.127+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6978,
+            "version": "iOS 17 beta 4",
+            "build_id": "21A5291j",
+            "size": "6.71GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-25904/DA801C94-35DC-435F-8561-146C7861EE94/iPhone12,8_17.0_21A5291j_Restore.ipsw",
+            "created_at": "2023-07-31T20:20:51.004+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6946,
+            "version": "iOS 17 beta 4",
+            "build_id": "21A5291h",
+            "size": "6.71GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-21973/2B7F13B9-DDDE-4A82-8F41-5C71202E8A66/iPhone12,8_17.0_21A5291h_Restore.ipsw",
+            "created_at": "2023-07-25T18:12:49.619+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6860,
+            "version": "iOS 16.6 RC",
+            "build_id": "20G75",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17402/C837CECD-C19C-4A56-B71F-C06C2AB9F869/iPhone12,8_16.6_20G75_Restore.ipsw",
+            "created_at": "2023-07-18T17:51:21.333+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6825,
+            "version": "iOS 17 beta 3",
+            "build_id": "21A5277j",
+            "size": "6.76GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-13101/EDC343A1-7B5F-4CE2-8147-FCF2C9695BE6/iPhone12,8_17.0_21A5277j_Restore.ipsw",
+            "created_at": "2023-07-11T17:30:42.031+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6792,
+            "version": "iOS 16.6 beta 5",
+            "build_id": "20G5070a",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-09846/1EDFB0EA-6D1E-40B9-9E06-841DB1088F21/iPhone12,8_16.6_20G5070a_Restore.ipsw",
+            "created_at": "2023-07-10T17:25:14.981+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6757,
+            "version": "iOS 17 beta 3",
+            "build_id": "21A5277h",
+            "size": "6.76GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-11810/D9CA1488-FD29-470F-AC3C-28FC554C78AD/iPhone12,8_17.0_21A5277h_Restore.ipsw",
+            "created_at": "2023-07-05T18:11:34.323+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6723,
+            "version": "iOS 16.6 beta 4",
+            "build_id": "20G5058d",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-03443/8CDDC487-B135-44C2-A4CF-15319F1698F9/iPhone12,8_16.6_20G5058d_Restore.ipsw",
+            "created_at": "2023-06-27T17:47:19.08+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6688,
+            "version": "iOS 17 beta 2",
+            "build_id": "21A5268h",
+            "size": "6.75GB",
+            "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-96350/386D6D3E-1176-4E6C-A48C-7DCDDABC7B64/iPhone12,8_17.0_21A5268h_Restore.ipsw",
+            "created_at": "2023-06-21T20:23:08.683+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6610,
+            "version": "iOS 16.6 beta 3",
+            "build_id": "20G5047d",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-93577/70BAE81F-452E-4E44-AB74-3A706D65F96F/iPhone12,8_16.6_20G5047d_Restore.ipsw",
+            "created_at": "2023-06-15T18:46:49.538+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6538,
+            "version": "iOS 17 beta",
+            "build_id": "21A5248v",
+            "size": "6.69GB",
+            "url": "https://download.developer.apple.com/WWDC_2023/iOS_17_beta_Restore_Images/iPhone128_17.0_21A5248v_Restore.ipsw",
+            "created_at": "2023-06-06T05:13:35.415+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6573,
+            "version": "iOS 16.6 beta 2",
+            "build_id": "20G5037d",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-88343/63020FF2-E4A1-4ADC-AF33-6096C58DC247/iPhone12,8_16.6_20G5037d_Restore.ipsw",
+            "created_at": "2023-06-06T05:13:41.083+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6503,
+            "version": "iOS 16.6 beta",
+            "build_id": "20G5026e",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-86114/AC697502-8056-46A5-BECC-6D597D4FD0BB/iPhone12,8_16.6_20G5026e_Restore.ipsw",
+            "created_at": "2023-05-19T17:47:51.994+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6421,
+            "version": "16.5",
+            "build_id": "20F66",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85464/B29DC12A-DA65-4CBA-BB13-DBFDAC9BEA73/iPhone12,8_16.5_20F66_Restore.ipsw",
+            "created_at": "2023-05-15T18:17:12.982+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6383,
+            "version": "iOS 16.5 RC",
+            "build_id": "20F65",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-38781/22DEB948-D0BB-43D8-BACD-A123B8B85BE4/iPhone12,8_16.5_20F65_Restore.ipsw",
+            "created_at": "2023-05-09T17:57:25.896+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6346,
+            "version": "iOS 16.5 beta 4",
+            "build_id": "20F5059a",
+            "size": "5.91GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79425/8F235949-9425-4431-83B5-5C2141B27674/iPhone12,8_16.5_20F5059a_Restore.ipsw",
+            "created_at": "2023-05-02T17:34:47.949+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6309,
+            "version": "iOS 16.5 beta 3",
+            "build_id": "20F5050f",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-78931/A9F71325-62F4-4D89-A4A9-C1B1860541F7/iPhone12,8_16.5_20F5050f_Restore.ipsw",
+            "created_at": "2023-04-25T17:29:45.173+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6270,
+            "version": "iOS 16.5 beta 2",
+            "build_id": "20F5039e",
+            "size": "5.93GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-70612/B470646E-FE7D-46BB-8309-39EB2BB9BF5A/iPhone12,8_16.5_20F5039e_Restore.ipsw",
+            "created_at": "2023-04-11T17:28:47.471+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6190,
+            "version": "iOS 16.5 beta",
+            "build_id": "20F5028e",
+            "size": "5.94GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-59153/04D8FFC1-9C15-4C4E-AB70-B130F22EACF6/iPhone12,8_16.5_20F5028e_Restore.ipsw",
+            "created_at": "2023-03-28T17:38:39.042+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6101,
+            "version": "iOS 16.4 RC",
+            "build_id": "20E246",
+            "size": "5.93GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-66012/C1333E32-0E26-4BE8-B758-D1D982AF9B91/iPhone12,8_16.4_20E246_Restore.ipsw",
+            "created_at": "2023-03-21T18:14:25.78+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6065,
+            "version": "iOS 16.4 beta 4",
+            "build_id": "20E5239b",
+            "size": "5.91GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-63584/F257F1CE-D3DB-4E71-9974-D2D83651442D/iPhone12,8_16.4_20E5239b_Restore.ipsw",
+            "created_at": "2023-03-15T17:24:40.406+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6028,
+            "version": "iOS 16.4 beta 3",
+            "build_id": "20E5229e",
+            "size": "5.91GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-57592/313A3635-D96D-41CD-8FDB-8703D5223053/iPhone12,8_16.4_20E5229e_Restore.ipsw",
+            "created_at": "2023-03-07T18:35:38.664+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5991,
+            "version": "iOS 16.4 beta 2",
+            "build_id": "20E5223e",
+            "size": "5.90GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-54520/F4A9CC45-17BC-4F6B-8EE3-F30BC746E8CD/iPhone12,8_16.4_20E5223e_Restore.ipsw",
+            "created_at": "2023-02-28T18:29:11.774+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5949,
+            "version": "iOS 16.4 beta",
+            "build_id": "20E5212f",
+            "size": "5.92GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-51584/8B923F5F-A656-4F0F-8595-660448A5CAB8/iPhone12,8_16.4_20E5212f_Restore.ipsw",
+            "created_at": "2023-02-16T18:27:05.792+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5819,
+            "version": "iOS 16.3 RC",
+            "build_id": "20D47",
+            "size": "5.71GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35872/5B4EFBFB-B0CD-41B3-8F44-40990F3C9048/iPhone12,8_16.3_20D47_Restore.ipsw",
+            "created_at": "2023-01-19T02:23:10.474+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5782,
+            "version": "iOS 16.3 beta 2",
+            "build_id": "20D5035i",
+            "size": "5.70GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-33379/4522382F-A58D-42B9-9F90-851E40B34739/iPhone12,8_16.3_20D5035i_Restore.ipsw",
+            "created_at": "2023-01-11T02:20:43.17+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5688,
+            "version": "iOS 16.2 RC",
+            "build_id": "20C65",
+            "size": "5.71GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-13988/2227226F-BD97-4341-AB08-6606BA4718E2/iPhone12,8_16.2_20C65_Restore.ipsw",
+            "created_at": "2022-12-08T02:30:46.472+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5651,
+            "version": "iOS 16.2 beta 4",
+            "build_id": "20C5058d",
+            "size": "5.70GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-12291/D4491D11-9A6E-4916-93D3-C0EDC040A2BF/iPhone12,8_16.2_20C5058d_Restore.ipsw",
+            "created_at": "2022-12-02T02:29:28.693+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5585,
+            "version": "iOS 16.2 beta 2",
+            "build_id": "20C5043e",
+            "size": "5.69GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-97756/F946608E-5612-4AD8-BE02-0DE4A84E7115/iPhone12,8_16.2_20C5043e_Restore.ipsw",
+            "created_at": "2022-11-14T17:56:14.546+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5510,
+            "version": "iOS 16.2 beta",
+            "build_id": "20C5032e",
+            "size": "5.69GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-80908/42C48494-F2DE-4B07-B4AE-3B2410D5703A/iPhone12,8_16.2_20C5032e_Restore.ipsw",
+            "created_at": "2022-10-26T02:40:04.757+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5404,
+            "version": "iOS 16.1 RC",
+            "build_id": "20B79",
+            "size": "5.64GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-90958/C33BB4A6-0244-4E61-B10C-60774565FDE8/iPhone12,8_16.1_20B79_Restore.ipsw",
+            "created_at": "2022-10-19T01:51:07.586+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5433,
+            "version": "iOS 15.7.1 RC",
+            "build_id": "19H115",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91138/595A755F-5B1E-4A2D-933F-EA0339939427/iPhone12,8_15.7.1_19H115_Restore.ipsw",
+            "created_at": "2022-10-19T01:51:10.832+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5369,
+            "version": "iOS 16.1 beta 5",
+            "build_id": "20B5072b",
+            "size": "5.63GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-89241/74D9FC97-3CB7-42D1-B205-3C59C58E32FD/iPhone12,8_16.1_20B5072b_Restore.ipsw",
+            "created_at": "2022-10-12T01:20:35.164+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5314,
+            "version": "iOS 16.1 beta 4",
+            "build_id": "20B5064c",
+            "size": "5.63GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-77591/55443F09-8837-44DA-AF3A-0A754E959CDB/iPhone12,8_16.1_20B5064c_Restore.ipsw",
+            "created_at": "2022-10-05T01:19:43.453+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5279,
+            "version": "iOS 16.1 beta 3",
+            "build_id": "20B5056e",
+            "size": "5.64GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-72204/3EA30E0F-B91D-4007-927B-9161A29DD1A1/iPhone12,8_16.1_20B5056e_Restore.ipsw",
+            "created_at": "2022-09-28T01:24:52.396+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5224,
+            "version": "iOS 16.1 beta 2",
+            "build_id": "20B5050f",
+            "size": "5.62GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-71434/910663AA-7EA4-47B7-9A1B-A6432730BC22/iPhone12,8_16.1_20B5050f_Restore.ipsw",
+            "created_at": "2022-09-21T01:29:20.169+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5182,
+            "version": "iOS 16.1 beta",
+            "build_id": "20B5045d",
+            "size": "5.62GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-66223/03D1BE30-08DC-4048-B776-BF1C7B229462/iPhone12,8_16.1_20B5045d_Restore.ipsw",
+            "created_at": "2022-09-15T01:28:46.312+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5089,
+            "version": "16.0",
+            "build_id": "20A362",
+            "size": "5.60GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65921/85E1CD1A-93DF-48BD-9DD2-CF2456C6CC46/iPhone12,8_16.0_20A362_Restore.ipsw",
+            "created_at": "2022-09-08T03:17:54.063+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5104,
+            "version": "iOS 15.7 RC",
+            "build_id": "19H12",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38875/5A92883D-5232-4509-95E1-D9117CB65AE1/iPhone12,8_15.7_19H12_Restore.ipsw",
+            "created_at": "2022-09-08T03:17:59.245+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5067,
+            "version": "iOS 16 beta 8",
+            "build_id": "20A5358a",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-61714/6E6706F8-C737-429E-9703-77CA12432A24/iPhone12,8_16.0_20A5358a_Restore.ipsw",
+            "created_at": "2022-08-30T01:56:22.989+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5036,
+            "version": "iOS 16 beta 7",
+            "build_id": "20A5356a",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-57990/719DCC57-EEC9-4F29-A89C-F8AEE08E5733/iPhone12,8_16.0_20A5356a_Restore.ipsw",
+            "created_at": "2022-08-24T01:15:07.868+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4973,
+            "version": "iOS 16 beta 6",
+            "build_id": "20A5349b",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-53486/372B34CD-72E5-440C-A476-622DEFCB0C60/iPhone12,8_16.0_20A5349b_Restore.ipsw",
+            "created_at": "2022-08-16T01:17:04.963+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4942,
+            "version": "iOS 16 beta 5",
+            "build_id": "20A5339d",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-46065/0E719438-5268-4C1F-83D9-96673BD45B9D/iPhone12,8_16.0_20A5339d_Restore.ipsw",
+            "created_at": "2022-08-09T01:21:56.504+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4911,
+            "version": "iOS 16 beta 4",
+            "build_id": "20A5328h",
+            "size": "5.62GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-44941/47B5A71A-93CD-4D85-9C09-7D6308E36DE1/iPhone12,8_16.0_20A5328h_Restore.ipsw",
+            "created_at": "2022-07-28T01:20:07.395+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4841,
+            "version": "iOS 15.6 RC 2",
+            "build_id": "19G71",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41692/AA236B3F-E922-43DA-8239-84662B84B1A8/iPhone12,8_15.6_19G71_Restore.ipsw",
+            "created_at": "2022-07-16T01:48:54.767+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4807,
+            "version": "iOS 15.6 RC",
+            "build_id": "19G69",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-40409/8E0606AC-B455-4656-9116-5E8277F8506D/iPhone12,8_15.6_19G69_Restore.ipsw",
+            "created_at": "2022-07-13T01:18:52.151+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4778,
+            "version": "iOS 16 beta 3 Update",
+            "build_id": "20A5312j",
+            "size": "5.63GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-40226/AC1F2C13-490A-4241-B002-5211A269A15F/iPhone12,8_16.0_20A5312j_Restore.ipsw",
+            "created_at": "2022-07-12T01:20:48.498+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4735,
+            "version": "iOS 15.6 beta 5",
+            "build_id": "19G5063a",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-36320/8E4A435B-AB5A-428C-A2D8-6DE2B644B4E1/iPhone12,8_15.6_19G5063a_Restore.ipsw",
+            "created_at": "2022-07-06T02:22:03.002+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4702,
+            "version": "iOS 15.6 beta 4",
+            "build_id": "19G5056c",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-33007/EC80EA39-F18F-4E71-A5BB-95FF772615BB/iPhone12,8_15.6_19G5056c_Restore.ipsw",
+            "created_at": "2022-06-29T01:36:47.15+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4672,
+            "version": "iOS 16 beta 2",
+            "build_id": "20A5303i",
+            "size": "5.65GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-26295/E16569BC-B1BD-44DA-92AC-7B71B2578B31/iPhone12,8_16.0_20A5303i_Restore.ipsw",
+            "created_at": "2022-06-23T01:17:16.193+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4635,
+            "version": "iOS 15.6 beta 3",
+            "build_id": "19G5046d",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-17944/022FEFA8-2D5C-4759-8C92-521643EAADC0/iPhone12,8_15.6_19G5046d_Restore.ipsw",
+            "created_at": "2022-06-15T01:24:46.279+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4605,
+            "version": "iOS 16 beta",
+            "build_id": "20A5283p",
+            "size": "5.70GB",
+            "url": "https://download.developer.apple.com/WWDC_2022/iOS_16_beta/iPhone128_16.0_20A5283p_Restore.ipsw",
+            "created_at": "2022-06-07T11:15:16.419+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4568,
+            "version": "iOS 15.6 beta 2",
+            "build_id": "19G5037d",
+            "size": "5.56GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-10541/5812BAD4-CB0E-45A5-B988-33432C906B31/iPhone12,8_15.6_19G5037d_Restore.ipsw",
+            "created_at": "2022-06-01T01:44:11.62+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4493,
+            "version": "iOS 15.6 beta",
+            "build_id": "19G5027e",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94079/CEA7D95D-478B-4D00-8615-27AAD35AD17D/iPhone12,8_15.6_19G5027e_Restore.ipsw",
+            "created_at": "2022-05-19T01:31:32.214+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4377,
+            "version": "iOS 15.5 RC",
+            "build_id": "19F77",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07240/7A7CACB1-0332-4DF3-9364-39302722C864/iPhone12,8_15.5_19F77_Restore.ipsw",
+            "created_at": "2022-05-13T14:31:12.328+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4362,
+            "version": "iOS 15.5 beta 4",
+            "build_id": "19F5070b",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94866/95FE51BE-8C41-4BA7-AD7E-2AB07C4E4AB6/iPhone12,8_15.5_19F5070b_Restore.ipsw",
+            "created_at": "2022-05-04T12:37:52.021+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4305,
+            "version": "iOS 15.5 beta 3",
+            "build_id": "19F5062g",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-89950/42C95062-929E-4D59-ACE4-341F4DDF229C/iPhone12,8_15.5_19F5062g_Restore.ipsw",
+            "created_at": "2022-04-27T01:19:42.027+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4271,
+            "version": "iOS 15.5 beta 2",
+            "build_id": "19F5057e",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-87340/992C32A4-0525-402E-9CD2-64C3FCC19D54/iPhone12,8_15.5_19F5057e_Restore.ipsw",
+            "created_at": "2022-04-20T01:21:57.237+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4237,
+            "version": "iOS 15.5 beta",
+            "build_id": "19F5047e",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-85841/ADF1B350-D59C-48E4-98DC-094F4B78A3BA/iPhone12,8_15.5_19F5047e_Restore.ipsw",
+            "created_at": "2022-04-06T01:22:55.956+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4103,
+            "version": "iOS 15.4 RC",
+            "build_id": "19E241",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09695/0CFF5CC4-6198-4D0E-B0BB-A8B27CE8AF6A/iPhone12,8_15.4_19E241_Restore.ipsw",
+            "created_at": "2022-03-09T03:36:26.598+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4071,
+            "version": "iOS 15.4 beta 5",
+            "build_id": "19E5241a",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74709/3FC706DC-92AC-400B-9FEF-F7F5CAE57464/iPhone12,8_15.4_19E5241a_Restore.ipsw",
+            "created_at": "2022-03-02T10:07:36.463+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4039,
+            "version": "iOS 15.4 beta 4",
+            "build_id": "19E5235a",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74152/F340AD3B-F006-4811-B03B-3A2CEE273711/iPhone12,8_15.4_19E5235a_Restore.ipsw",
+            "created_at": "2022-02-23T02:26:36+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4007,
+            "version": "iOS 15.4 beta 3",
+            "build_id": "19E5225g",
+            "size": "5.63GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-71384/928ECD62-1F00-4BC1-94EC-215E28184EB6/iPhone12,8_15.4_19E5225g_Restore.ipsw",
+            "created_at": "2022-02-16T02:24:01.445+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3945,
+            "version": "iOS 15.4 beta 2",
+            "build_id": "19E5219e",
+            "size": "5.61GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-60263/AD832FB1-0B3F-42CD-8DEE-CC9ECEAFDCE6/iPhone12,8_15.4_19E5219e_Restore.ipsw",
+            "created_at": "2022-02-09T02:22:43.805+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3201,
+            "version": "iOS 15.4 beta",
+            "build_id": "19E5209h",
+            "size": "5.62GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-59284/B479A60C-517A-4DF8-9C9E-9EF2CDD2863F/iPhone12,8_15.4_19E5209h_Restore.ipsw",
+            "created_at": "2022-02-02T10:54:41.603+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4167,
+            "version": "iOS 15.3 RC",
+            "build_id": "19D49",
+            "size": "5.77GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-55821/09FC2EBD-9216-47E5-BB04-AA7707A5F97A/iPhone12,8_15.3_19D49_Restore.ipsw",
+            "created_at": "2022-03-24T15:05:59.845+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3915,
+            "version": "iOS 15.3 beta 2",
+            "build_id": "19D5040e",
+            "size": "5.78GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-52375/A187FD93-F868-45FF-A589-84A23893F96F/iPhone12,8_15.3_19D5040e_Restore.ipsw",
+            "created_at": "2022-02-02T13:04:56.082+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3886,
+            "version": "iOS 15.3 beta",
+            "build_id": "19D5026g",
+            "size": "5.78GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-44910/72739D12-EB99-4B0D-B976-FF0DDDE599DC/iPhone12,8_15.3_19D5026g_Restore.ipsw",
+            "created_at": "2022-02-02T13:04:33.987+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3854,
+            "version": "iOS 15.2 beta 4",
+            "build_id": "19C5050b",
+            "size": "5.77GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-40361/F6D9AE13-82AC-4602-93F5-C8A46395CB40/iPhone12,8_15.2_19C5050b_Restore.ipsw",
+            "created_at": "2022-02-02T13:04:04.464+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3825,
+            "version": "iOS 15.2 beta 3",
+            "build_id": "19C5044b",
+            "size": "5.77GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-31950/6E0EF4AD-65BF-4169-93B4-0B15CF130E3B/iPhone12,8_15.2_19C5044b_Restore.ipsw",
+            "created_at": "2022-02-02T13:03:42.108+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3796,
+            "version": "iOS 15.2 beta 2",
+            "build_id": "19C5036e",
+            "size": "5.80GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-28869/50892249-FF46-4D94-B6AB-8D540D977B52/iPhone12,8_15.2_19C5036e_Restore.ipsw",
+            "created_at": "2022-02-02T13:03:18.269+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3760,
+            "version": "iOS 15.1 beta 3",
+            "build_id": "19B5060d",
+            "size": "5.74GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-10514/F7889D74-83AA-4B7F-ADDE-DEA134A3D995/iPhone12,8_15.1_19B5060d_Restore.ipsw",
+            "created_at": "2022-02-02T13:02:47.364+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3731,
+            "version": "iOS 15.1 beta 2",
+            "build_id": "19B5052f",
+            "size": "5.73GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-06548/9A5A8C6E-1B8C-4A19-AB49-9C87358FCAFF/iPhone12,8_15.1_19B5052f_Restore.ipsw",
+            "created_at": "2022-02-02T13:02:23.777+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3698,
+            "version": "iOS 15.1 beta",
+            "build_id": "19B5042h",
+            "size": "5.73GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-03942/9D6F8359-391E-48E3-8E79-BC964E99A6A9/iPhone12,8_15.1_19B5042h_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:55.433+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3675,
+            "version": "iOS 15 RC",
+            "build_id": "19A344",
+            "size": "5.74GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97090/B3581538-41CF-4C65-ADB1-FCC8C4A7280E/iPhone12,8_15.0_19A344_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:36.626+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3652,
+            "version": "iOS 15 beta 8",
+            "build_id": "19A5340a",
+            "size": "5.52GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-89564/8253E48F-F856-4BFB-BE56-92689153329B/iPhone12,8_15.0_19A5340a_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:17.419+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3629,
+            "version": "iOS 15 beta 7",
+            "build_id": "19A5337a",
+            "size": "5.52GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-89000/26C2154D-0B30-4367-ACDC-8C7CBE336537/iPhone12,8_15.0_19A5337a_Restore.ipsw",
+            "created_at": "2022-02-02T13:00:46.734+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3606,
+            "version": "iOS 15 beta 6",
+            "build_id": "19A5325f",
+            "size": "5.53GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-84338/32ECACB0-ADCB-4408-A147-8B1F6638B0C3/iPhone12,8_15.0_19A5325f_Restore.ipsw",
+            "created_at": "2022-02-02T13:00:19.858+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3583,
+            "version": "iOS 15 beta 5",
+            "build_id": "19A5318f",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-80051/79C7E600-82A6-4381-85EF-FC930537145F/iPhone12,8_15.0_19A5318f_Restore.ipsw",
+            "created_at": "2022-02-02T12:59:52.313+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3560,
+            "version": "iOS 15 beta 4",
+            "build_id": "19A5307g",
+            "size": "5.55GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-75854/CA0F6A2E-656D-47D6-A4DC-3C55A947D651/iPhone12,8_15.0_19A5307g_Restore.ipsw",
+            "created_at": "2022-02-02T12:59:21.451+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3515,
+            "version": "iOS 14.7 RC",
+            "build_id": "18G68",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-69512/F4714373-D213-4D3D-80BE-EB4BF87D8CA4/iPhone12,8_14.7_18G68_Restore.ipsw",
+            "created_at": "2022-02-02T12:56:58.068+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3540,
+            "version": "iOS 15.0  beta 3",
+            "build_id": "19A5297e",
+            "size": "5.54GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-63383/19D520E7-F19E-4ECD-8F6E-B0CBC6AB07AD/iPhone12,8_15.0_19A5297e_Restore.ipsw",
+            "created_at": "2022-02-02T12:57:19.807+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3490,
+            "version": "iOS 14.7 beta 5",
+            "build_id": "18G5063a",
+            "size": "4.95GB",
+            "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-66568/3D712338-2533-4B7D-BD3F-DA3C193A717F/iPhone12,8_14.7_18G5063a_Restore.ipsw",
+            "created_at": "2022-02-02T12:56:33.961+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3466,
+            "version": "iOS 15 beta 2 (new)",
+            "build_id": "19A5281j",
+            "size": "5.56GB",
+            "url": "http://updates-http.cdn-apple.com/2021SummerSeed/fullrestores/071-61694/550FF3AE-D747-4757-BC0D-82C87275637C/iPhone12,8_15.0_19A5281j_Restore.ipsw",
+            "created_at": "2022-02-02T12:56:11.183+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3442,
+            "version": "iOS 14.7 beta 4",
+            "build_id": "18G5052d",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-60484/F09DC97C-0703-4E27-841B-3C9C669B22EC/iPhone12,8_14.7_18G5052d_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:46.281+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3397,
+            "version": "iOS 14.7 beta 3",
+            "build_id": "18G5042c",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-54681/9682D99F-7F5A-41D5-9E6A-AD85A3D22481/iPhone12,8_14.7_18G5042c_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:17.477+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3372,
+            "version": "iOS 14.7 beta 2",
+            "build_id": "18G5033e",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-49718/B10C5495-7136-4837-B448-794CE3D1BF00/iPhone12,8_14.7_18G5033e_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:13.982+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3347,
+            "version": "iOS 14.6 RC 2",
+            "build_id": "18F72",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-45316/E379EE23-B364-4F8F-846E-30A5D865C323/iPhone12,8_14.6_18F72_Restore.ipsw",
+            "created_at": "2022-02-02T12:54:42.08+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3299,
+            "version": "iOS 14.6 RC",
+            "build_id": "18F71",
+            "size": "4.96GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-43368/D88F3248-159B-4AE9-96B1-8DD3230F5D37/iPhone12,8_14.6_18F71_Restore.ipsw",
+            "created_at": "2022-02-02T12:53:39.253+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3323,
+            "version": "iOS 14.7 beta",
+            "build_id": "18G5023c",
+            "size": "4.95GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-36519/C41A4F63-A270-4F2E-9384-A32C70EF1BA8/iPhone12,8_14.7_18G5023c_Restore.ipsw",
+            "created_at": "2022-02-02T12:54:15.227+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3275,
+            "version": "iOS 14.6 beta 3",
+            "build_id": "18F5065a",
+            "size": "4.94GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-39840/07EDC6D7-1D40-4323-983E-62FCC9F5F099/iPhone12,8_14.6_18F5065a_Restore.ipsw",
+            "created_at": "2022-02-02T12:53:04.111+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3252,
+            "version": "iOS 14.6 beta 2",
+            "build_id": "18F5055b",
+            "size": "4.94GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-30864/A0F86A53-0C15-489E-B651-DDFEB4EBE212/iPhone12,8_14.6_18F5055b_Restore.ipsw",
+            "created_at": "2022-02-02T12:49:41.382+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3228,
+            "version": "iOS 14.5 RC",
+            "build_id": "18E199",
+            "size": "4.94GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-17684/17E6DB61-D6F8-49CC-A946-43E1B0B7DBCB/iPhone12,8_14.5_18E199_Restore.ipsw",
+            "created_at": "2022-02-02T12:49:13.654+08:00",
+            "type": 2,
+            "signing": -1
+        }
+    ]
+}

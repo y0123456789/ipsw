@@ -1,0 +1,268 @@
+{
+    "id": 56,
+    "name": "iPhone 3GS",
+    "identifier": "iPhone2,1",
+    "release_date": "2009-06-09T01:00:00+08:00",
+    "firmwares": [
+        {
+            "id": 2183,
+            "version": "iOS 4.1",
+            "build_id": "8B117",
+            "size": "0.37GB",
+            "url": "http://appldnld.apple.com/iPhone4/061-7938.20100908.F3rCk/iPhone2,1_4.1_8B117_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.559+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 2186,
+            "version": "iOS 6.1.6",
+            "build_id": "10B500",
+            "size": "0.77GB",
+            "url": "http://appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.608+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 2172,
+            "version": "iOS 3.0.1",
+            "build_id": "7A400",
+            "size": "0.29GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6976.20090731.Vgbt5/iPhone2,1_3.0.1_7A400_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.38+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 2173,
+            "version": "iOS 3.0",
+            "build_id": "7A341",
+            "size": "0.29GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6582.20090617.LlI87/iPhone2,1_3.0_7A341_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.396+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 2181,
+            "version": "iOS 4.3.5",
+            "build_id": "8L1",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1965.20110721.gxUB5/iPhone2,1_4.3.5_8L1_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.528+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2168,
+            "version": "iOS 6.1.3",
+            "build_id": "10B329",
+            "size": "0.77GB",
+            "url": "http://appldnld.apple.com/iOS6.1/091-2371.20130319.715gt/iPhone2,1_6.1.3_10B329_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.316+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2179,
+            "version": "iOS 5.1.1",
+            "build_id": "9B206",
+            "size": "0.67GB",
+            "url": "http://appldnld.apple.com/iOS5.1.1/041-4347.20120427.o2yov/iPhone2,1_5.1.1_9B206_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.496+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2185,
+            "version": "iOS 3.1.3",
+            "build_id": "7E18",
+            "size": "0.28GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7472.20100202.8tugj/iPhone2,1_3.1.3_7E18_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.592+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2169,
+            "version": "iOS 6.1.2",
+            "build_id": "10B146",
+            "size": "0.77GB",
+            "url": "http://appldnld.apple.com/iOS6.1/091-0744.20130215.2E34r/iPhone2,1_6.1.2_10B146_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.334+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2178,
+            "version": "iOS 6.1",
+            "build_id": "10B141",
+            "size": "0.77GB",
+            "url": "http://appldnld.apple.com/iOS6.1/041-6493.20130128.sh4rG/iPhone2,1_6.1_10B141_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.48+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2170,
+            "version": "iOS 6.0.1",
+            "build_id": "10A523",
+            "size": "0.76GB",
+            "url": "http://appldnld.apple.com/iOS6/041-7949.20121101.Ortn5/iPhone2,1_6.0.1_10A523_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.349+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2171,
+            "version": "iOS 6.0",
+            "build_id": "10A403",
+            "size": "0.76GB",
+            "url": "http://appldnld.apple.com/iOS6/Restore/041-7173.20120919.sDDMh/iPhone2,1_6.0_10A403_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.365+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2164,
+            "version": "iOS 5.1",
+            "build_id": "9B176",
+            "size": "0.67GB",
+            "url": "http://appldnld.apple.com/iOS5/041-1535.20120307.Jer6N/iPhone2,1_5.1_9B176_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.252+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2187,
+            "version": "iOS 5.0.1",
+            "build_id": "9A405",
+            "size": "0.67GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-3307.20111109.5tGhu/iPhone2,1_5.0.1_9A405_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.636+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2180,
+            "version": "iOS 5.0",
+            "build_id": "9A334",
+            "size": "0.65GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-8356.20111012.SQRDT/iPhone2,1_5.0_9A334_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.513+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2174,
+            "version": "iOS 4.3.4",
+            "build_id": "8K2",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1921.20110715.ItuLh/iPhone2,1_4.3.4_8K2_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.411+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2165,
+            "version": "iOS 4.3.3",
+            "build_id": "8J2",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1009.20110503.M73Yr/iPhone2,1_4.3.3_8J2_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.268+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2175,
+            "version": "iOS 4.3.2",
+            "build_id": "8H7",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0660.20110414.Gwed5/iPhone2,1_4.3.2_8H7_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.426+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2188,
+            "version": "iOS 4.3.1",
+            "build_id": "8G4",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0549.20110325.ZxP8u/iPhone2,1_4.3.1_8G4_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.663+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2166,
+            "version": "iOS 4.3",
+            "build_id": "8F190",
+            "size": "0.41GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0328.20110311.Lkhy6/iPhone2,1_4.3_8F190_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.284+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2182,
+            "version": "iOS 4.2.1",
+            "build_id": "8C148a",
+            "size": "0.39GB",
+            "url": "http://appldnld.apple.com/iPhone4/061-9895.20101122.Cdew2/iPhone2,1_4.2.1_8C148a_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.544+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2176,
+            "version": "iOS 4.0.2",
+            "build_id": "8A400",
+            "size": "0.37GB",
+            "url": "http://appldnld.apple.com/iPhone4/061-8805.20100811.Dcr4e/iPhone2,1_4.0.2_8A400_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.448+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2189,
+            "version": "iOS 4.0.1",
+            "build_id": "8A306",
+            "size": "0.37GB",
+            "url": "http://appldnld.apple.com/iPhone4/061-8618.20100715.Zapn4/iPhone2,1_4.0.1_8A306_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.685+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2177,
+            "version": "iOS 4.0",
+            "build_id": "8A293",
+            "size": "0.37GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone4/061-7437.20100621.5urG8/iPhone2,1_4.0_8A293_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.464+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2167,
+            "version": "iOS 3.1.2",
+            "build_id": "7D11",
+            "size": "0.30GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7270.20091008.phn32/iPhone2,1_3.1.2_7D11_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.301+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2184,
+            "version": "iOS 3.1",
+            "build_id": "7C144",
+            "size": "0.30GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6609.20090909.mwws4/iPhone2,1_3.1_7C144_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:37.575+08:00",
+            "type": 1,
+            "signing": -1
+        }
+    ]
+}

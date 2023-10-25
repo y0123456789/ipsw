@@ -1,0 +1,1748 @@
+{
+    "id": 97,
+    "name": "iPad 5th Gen (Wi-Fi + Cellular)",
+    "identifier": "iPad6,12",
+    "release_date": "2017-03-22T01:01:00+08:00",
+    "firmwares": [
+        {
+            "id": 7450,
+            "version": "iPadOS 16.7.1",
+            "build_id": "20H30",
+            "size": "5.34GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-79366/BC1713FB-16DB-4774-A56F-5D0C32528EF6/iPad_64bit_TouchID_ASTC_16.7.1_20H30_Restore.ipsw",
+            "created_at": "2023-10-11T02:20:29.935+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7275,
+            "version": "iPadOS 16.7",
+            "build_id": "20H19",
+            "size": "5.34GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-57830/E6AF5CB4-177C-4DF1-B87B-9493A07CD514/iPad_64bit_TouchID_ASTC_16.7_20H19_Restore.ipsw",
+            "created_at": "2023-09-22T02:22:53.109+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7132,
+            "version": "iPadOS 16.6.1",
+            "build_id": "20G81",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44669/F4841BD5-CCCB-4678-B402-64EBC3C8BB86/iPad_64bit_TouchID_ASTC_16.6.1_20G81_Restore.ipsw",
+            "created_at": "2023-09-08T02:10:39.851+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6906,
+            "version": "iPadOS 16.6",
+            "build_id": "20G75",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17999/66C3164F-AFDE-493B-B51B-6F31DEB70297/iPad_64bit_TouchID_ASTC_16.6_20G75_Restore.ipsw",
+            "created_at": "2023-07-24T18:25:21.851+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6634,
+            "version": "iPadOS 16.5.1",
+            "build_id": "20F75",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/042-01941/580929D7-2A28-4FAB-BB64-366937E112FE/iPad_64bit_TouchID_ASTC_16.5.1_20F75_Restore.ipsw",
+            "created_at": "2023-06-21T17:47:07.577+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6462,
+            "version": "iPadOS 16.5",
+            "build_id": "20F66",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85178/78BCB6E3-2808-4BB6-A86C-2EFB9A4826F0/iPad_64bit_TouchID_ASTC_16.5_20F66_Restore.ipsw",
+            "created_at": "2023-05-18T17:56:47.786+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6218,
+            "version": "iPadOS 16.4.1",
+            "build_id": "20E252",
+            "size": "5.32GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-71343/F9FBEA1B-B7FA-441F-91D1-36B886B9AC02/iPad_64bit_TouchID_ASTC_16.4.1_20E252_Restore.ipsw",
+            "created_at": "2023-04-07T18:12:10.595+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 6143,
+            "version": "iPadOS 16.4",
+            "build_id": "20E246",
+            "size": "5.32GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-66085/99FA6CBE-2B96-4A78-B677-9B11D4C0E09C/iPad_64bit_TouchID_ASTC_16.4_20E246_Restore.ipsw",
+            "created_at": "2023-03-27T18:08:45.545+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5922,
+            "version": "iPadOS 16.3.1",
+            "build_id": "20D67",
+            "size": "5.11GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-50247/FE8CEA24-9FF9-443F-8443-5849BB501B3F/iPad_64bit_TouchID_ASTC_16.3.1_20D67_Restore.ipsw",
+            "created_at": "2023-02-13T20:17:46.747+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5851,
+            "version": "iPadOS 16.3",
+            "build_id": "20D47",
+            "size": "5.11GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35931/D81C1CE6-B15E-4DC7-8687-F44833F4731F/iPad_64bit_TouchID_ASTC_16.3_20D47_Restore.ipsw",
+            "created_at": "2023-01-24T05:39:23.703+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5713,
+            "version": "iPadOS 16.2",
+            "build_id": "20C65",
+            "size": "5.10GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-14002/C873A37F-C971-4460-94F2-33F2F7FDF39F/iPad_64bit_TouchID_ASTC_16.2_20C65_Restore.ipsw",
+            "created_at": "2022-12-14T02:49:35.758+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5549,
+            "version": "iPadOS 16.1.1",
+            "build_id": "20B101",
+            "size": "5.04GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-96729/5F958E1B-4510-4755-B4C0-8AC5ED286F73/iPad_64bit_TouchID_ASTC_16.1.1_20B101_Restore.ipsw",
+            "created_at": "2022-11-10T02:09:22.631+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5454,
+            "version": "iPadOS 16.1",
+            "build_id": "20B82",
+            "size": "5.04GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-93170/0E98AA01-052C-470B-9A14-7D610C1A97C6/iPad_64bit_TouchID_ASTC_16.1_20B82_Restore.ipsw",
+            "created_at": "2022-10-25T01:29:00.739+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 5137,
+            "version": "iPadOS 15.7",
+            "build_id": "19H12",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38966/80B885FC-7186-4C64-9E7F-4DA8F1A7E12C/iPad_64bit_TouchID_ASTC_15.7_19H12_Restore.ipsw",
+            "created_at": "2022-09-13T01:10:55.162+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4988,
+            "version": "iPadOS 15.6.1",
+            "build_id": "19G82",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52633/AC5BDCA4-7C06-40CD-A61C-65DCF1BBDE3E/iPad_64bit_TouchID_ASTC_15.6.1_19G82_Restore.ipsw",
+            "created_at": "2022-08-18T01:20:56.709+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4870,
+            "version": "iPadOS 15.6",
+            "build_id": "19G71",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41686/15A91AE0-AE2D-46FA-8731-5E5AC615D629/iPad_64bit_TouchID_ASTC_15.6_19G71_Restore.ipsw",
+            "created_at": "2022-07-21T01:24:49.567+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4413,
+            "version": "iPadOS 15.5",
+            "build_id": "19F77",
+            "size": "4.88GB",
+            "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07139/A5D0A6E7-CED5-43A6-841A-ED420B0FBDFD/iPad_64bit_TouchID_ASTC_15.5_19F77_Restore.ipsw",
+            "created_at": "2022-05-17T01:54:10.424+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4204,
+            "version": "iPadOS 15.4.1",
+            "build_id": "19E258",
+            "size": "4.86GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-80431/CF03A9F5-BD20-4C9E-B43B-832C755FFC89/iPad_64bit_TouchID_ASTC_15.4.1_19E258_Restore.ipsw",
+            "created_at": "2022-04-01T02:20:47.43+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 4143,
+            "version": "iPadOS 15.4",
+            "build_id": "19E241",
+            "size": "4.85GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09778/B695951C-D984-4F88-AB2E-ACDE1B21AD7D/iPad_64bit_TouchID_ASTC_15.4_19E241_Restore.ipsw",
+            "created_at": "2022-03-15T01:56:04.936+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3967,
+            "version": "iPadOS 15.3.1",
+            "build_id": "19D52",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-64646/BA2A4ACC-05C5-4A54-80EF-489641AC3031/iPad_64bit_TouchID_ASTC_15.3.1_19D52_Restore.ipsw",
+            "created_at": "2022-02-11T09:14:00.917+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3135,
+            "version": "iPadOS 15.3",
+            "build_id": "19D50",
+            "size": "4.98GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-57424/1D21CFF6-FE43-43B4-B25F-FF07E7BC850A/iPad_64bit_TouchID_ASTC_15.3_19D50_Restore.ipsw",
+            "created_at": "2022-01-27T10:02:50.154+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3178,
+            "version": "iPadOS 15.2.1",
+            "build_id": "19C63",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/002-51628/6214E8D3-3908-4320-8C08-F7D7D973F26B/iPad_64bit_TouchID_ASTC_15.2.1_19C63_Restore.ipsw",
+            "created_at": "2022-01-29T20:05:11.708+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 3090,
+            "version": "iPadOS 15.2",
+            "build_id": "19C56",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/071-92034/E5084F6F-41E1-4741-ADC8-872CBF6DF72A/iPad_64bit_TouchID_ASTC_15.2_19C56_Restore.ipsw",
+            "created_at": "2021-12-14T12:25:18.784+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 483,
+            "version": "iPadOS 15.1",
+            "build_id": "19B74",
+            "size": "4.97GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-63876/B64A4CAA-7DD6-4C49-998B-FBCB6AF059F7/iPad_64bit_TouchID_ASTC_15.1_19B74_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.335+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 471,
+            "version": "iPadOS 15.0.2",
+            "build_id": "19A404",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-14300/5FAA46CE-9DD7-4EFA-914C-51471D9B0655/iPad_64bit_TouchID_ASTC_15.0.2_19A404_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.172+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 489,
+            "version": "iPadOS 15.0.1",
+            "build_id": "19A348",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-09643/8663812F-9D9F-4A3C-8D5E-6AE11202C8F3/iPad_64bit_TouchID_ASTC_15.0.1_19A348_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.417+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 497,
+            "version": "iPadOS 15.0",
+            "build_id": "19A346",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02992/9B02107F-5405-4A74-8CCB-6D5746E37BAB/iPad_64bit_TouchID_ASTC_15.0_19A346_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.524+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 498,
+            "version": "iPadOS 14.8",
+            "build_id": "18H17",
+            "size": "4.42GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98156/BB24CD59-96C7-472C-BDFE-B40C0DED2370/iPad_64bit_TouchID_ASTC_14.8_18H17_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.538+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 506,
+            "version": "iPadOS 14.7.1",
+            "build_id": "18G82",
+            "size": "4.42GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-73897/35749AB1-5428-4326-9CA2-B7398A2BBF05/iPad_64bit_TouchID_ASTC_14.7.1_18G82_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.652+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 501,
+            "version": "iPadOS 14.7",
+            "build_id": "18G69",
+            "size": "4.42GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-71120/751F9AB4-A4AE-4517-9EA4-9F2F3A022312/iPad_64bit_TouchID_ASTC_14.7_18G69_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.575+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 464,
+            "version": "iPadOS 14.6",
+            "build_id": "18F72",
+            "size": "4.41GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-45423/43CEBAED-3ADA-4615-899A-C4FF6081416F/iPad_64bit_TouchID_ASTC_14.6_18F72_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.075+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 499,
+            "version": "iPadOS 14.5.1",
+            "build_id": "18E212",
+            "size": "4.39GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-34384/4E85EB75-B005-4860-B9C3-F97CC65EBECF/iPad_64bit_TouchID_ASTC_14.5.1_18E212_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.551+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 472,
+            "version": "iPadOS 14.5",
+            "build_id": "18E199",
+            "size": "4.39GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-17689/A29FBFC3-9A72-4493-8F73-4DFEABB18E47/iPad_64bit_TouchID_ASTC_14.5_18E199_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.186+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 490,
+            "version": "iPadOS 14.4.2",
+            "build_id": "18D70",
+            "size": "4.26GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-22479/FC24B13A-1AE9-49B6-80C4-8906D708A5D8/iPad_64bit_TouchID_ASTC_14.4.2_18D70_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.43+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 465,
+            "version": "iPadOS 14.4.1",
+            "build_id": "18D61",
+            "size": "4.30GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/071-12598/D7619425-754B-4146-8315-4342CEBCA894/iPad_64bit_TouchID_ASTC_14.4.1_18D61_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.088+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 476,
+            "version": "iPadOS 14.4",
+            "build_id": "18D52",
+            "size": "4.30GB",
+            "url": "http://updates-http.cdn-apple.com/2021WinterFCS/fullrestores/001-97825/F32DAD4C-6B4A-472D-A6FC-A1FB80828053/iPad_64bit_TouchID_ASTC_14.4_18D52_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.241+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 484,
+            "version": "iPadOS 14.3",
+            "build_id": "18C66",
+            "size": "4.26GB",
+            "url": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/001-87772/53F320A3-9EBB-46B1-A7F4-3F8A94B63BB5/iPad_64bit_TouchID_ASTC_14.3_18C66_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.347+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 517,
+            "version": "iPadOS 14.2",
+            "build_id": "18B92",
+            "size": "4.23GB",
+            "url": "http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74176/5A870064-5D61-414B-9653-0650FCC102BF/iPad_64bit_TouchID_ASTC_14.2_18B92_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.815+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 485,
+            "version": "iPadOS 14.1",
+            "build_id": "18A8395",
+            "size": "4.11GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-56286/D4775F62-463D-4D74-9A11-721E6BA4B128/iPad_64bit_TouchID_ASTC_14.1_18A8395_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.359+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 500,
+            "version": "iPadOS 14.0.1",
+            "build_id": "18A393",
+            "size": "4.16GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-50348/3D341AFC-B4EC-44D2-AD55-14261A4A7BE0/iPad_64bit_TouchID_ASTC_14.0.1_18A393_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.563+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 522,
+            "version": "iPadOS 14.0",
+            "build_id": "18A373",
+            "size": "4.16GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-46577/D2C86DF1-2F4A-4A9B-B367-64D459FCBAF3/iPad_64bit_TouchID_ASTC_14.0_18A373_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.882+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 473,
+            "version": "iPadOS 13.7",
+            "build_id": "17H35",
+            "size": "3.59GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-42276/D984F78D-8D7D-4A3E-8029-0C2657C7F852/iPad_64bit_TouchID_ASTC_13.7_17H35_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.198+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 474,
+            "version": "iPadOS 13.6.1",
+            "build_id": "17G80",
+            "size": "3.59GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-29318/88DD7F52-4520-4229-AFFB-94035C44DB49/iPad_64bit_TouchID_ASTC_13.6.1_17G80_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.211+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 511,
+            "version": "iPadOS 13.6",
+            "build_id": "17G68",
+            "size": "3.59GB",
+            "url": "http://updates-http.cdn-apple.com/2020SummerSeed/fullrestores/061-93134/FE0340D9-8565-49EE-9EFE-04F247E6C794/iPad_64bit_TouchID_ASTC_13.6_17G68_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.731+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 518,
+            "version": "iPadOS 13.5.1",
+            "build_id": "17F80",
+            "size": "3.58GB",
+            "url": "http://updates-http.cdn-apple.com/2020SpringFCS/fullrestores/001-08903/5B71F916-A082-11EA-BC51-82EDF1CFE6E8/iPad_64bit_TouchID_ASTC_13.5.1_17F80_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.826+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 496,
+            "version": "iPadOS 13.5",
+            "build_id": "17F75",
+            "size": "3.58GB",
+            "url": "http://updates-http.cdn-apple.com/2020SpringFCS/fullrestores/061-71951/BD6A09E7-610E-41DC-B6BF-407C00946BFE/iPad_64bit_TouchID_ASTC_13.5_17F75_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.51+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 491,
+            "version": "iPadOS 13.4.1",
+            "build_id": "17E262",
+            "size": "3.57GB",
+            "url": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/061-91082/63001171-ECA1-4D9E-953F-81C51A435EB8/iPad_64bit_TouchID_ASTC_13.4.1_17E262_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.443+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 467,
+            "version": "iPadOS 13.4",
+            "build_id": "17E255",
+            "size": "3.57GB",
+            "url": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/041-42130/E21BACD4-F3F4-4C8E-BF85-ADCD7EDE69C4/iPad_64bit_TouchID_ASTC_13.4_17E255_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.116+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 507,
+            "version": "iPadOS 13.3.1",
+            "build_id": "17D50",
+            "size": "3.54GB",
+            "url": "http://updates-http.cdn-apple.com/2020WinterFCS/fullrestores/061-40166/E02EB1D4-263F-4839-9904-63EB0F35E715/iPad_64bit_TouchID_ASTC_13.3.1_17D50_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.67+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 512,
+            "version": "iPadOS 11.4.1",
+            "build_id": "15G77",
+            "size": "2.50GB",
+            "url": "http://updates-http.cdn-apple.com/2018/ios/091-77690-20180709-8140758C-7C1C-11E8-ACF5-B25B544C24EB/iPad_64bit_TouchID_ASTC_11.4.1_15G77_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.745+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 468,
+            "version": "iPadOS 13.3",
+            "build_id": "17C54",
+            "size": "3.54GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-61293/1EEC040E-179E-11EA-B7DD-A9DC92630F32/iPad_64bit_TouchID_ASTC_13.3_17C54_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.131+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 493,
+            "version": "iPadOS 13.2.3",
+            "build_id": "17B111",
+            "size": "3.53GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-49753/9B925406-067B-11EA-848C-CDF35A676FB4/iPad_64bit_TouchID_ASTC_13.2.3_17B111_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.47+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 479,
+            "version": "iPadOS 13.2.2",
+            "build_id": "17B102",
+            "size": "3.53GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-45128/8C619076-FEB7-11E9-B3CD-EE2934CD61FA/iPad_64bit_TouchID_ASTC_13.2.2_17B102_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.28+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 486,
+            "version": "iPadOS 13.2",
+            "build_id": "17B84",
+            "size": "3.53GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/041-81339/FC3224F0-F4E5-11E9-AAA9-ACC134390AC5/iPad_64bit_TouchID_ASTC_13.2_17B84_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.375+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 502,
+            "version": "iPadOS 13.1.3",
+            "build_id": "17A878",
+            "size": "3.49GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-30566/29CF91E2-EB7A-11E9-9636-BC10329334FA/iPad_64bit_TouchID_ASTC_13.1.3_17A878_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.587+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 494,
+            "version": "iPadOS 13.1.2",
+            "build_id": "17A860",
+            "size": "3.49GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-22572/374D7C56-E18B-11E9-B21E-AD6496A9EC6E/iPad_64bit_TouchID_ASTC_13.1.2_17A860_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.483+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 503,
+            "version": "iPadOS 13.1.1",
+            "build_id": "17A854",
+            "size": "3.49GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-18893/E8EF41DE-DED8-11E9-9868-A18987DBCD4D/iPad_64bit_TouchID_ASTC_13.1.1_17A854_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.604+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 477,
+            "version": "iPadOS 13.1",
+            "build_id": "17A844",
+            "size": "3.49GB",
+            "url": "http://updates-http.cdn-apple.com/2019FallFCS/fullrestores/061-07139/DCD2607C-D986-11E9-9D60-9320DCDBD6A3/iPad_64bit_TouchID_ASTC_13.1_17A844_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.254+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 480,
+            "version": "iPadOS 12.4.1",
+            "build_id": "16G102",
+            "size": "2.91GB",
+            "url": "http://updates-http.cdn-apple.com/2019SummerFCS/fullrestores/061-05416/A45A2DF0-C4E7-11E9-AECA-0F610AD8B7A1/iPad_64bit_TouchID_ASTC_12.4.1_16G102_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.294+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 466,
+            "version": "iPadOS 12.4",
+            "build_id": "16G77",
+            "size": "2.91GB",
+            "url": "http://updates-http.cdn-apple.com/2019SummerFCS/fullrestores/041-86555/9E2E6C64-A743-11E9-B204-C70E5B1E1DA7/iPad_64bit_TouchID_ASTC_12.4_16G77_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.103+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 526,
+            "version": "iPadOS 12.3.1",
+            "build_id": "16F203",
+            "size": "2.91GB",
+            "url": "http://updates-http.cdn-apple.com/2019SpringFCS/fullrestores/041-68415/CC5820B2-7C96-11E9-9717-45F06256CCDB/iPad_64bit_TouchID_ASTC_12.3.1_16F203_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.939+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 519,
+            "version": "iPadOS 12.3",
+            "build_id": "16F156",
+            "size": "2.91GB",
+            "url": "http://updates-http.cdn-apple.com/2019SpringFCS/fullrestores/041-61734/B8CC77A0-71E2-11E9-884C-0284412A1E9F/iPad_64bit_TouchID_ASTC_12.3_16F156_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.839+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 523,
+            "version": "iPadOS 12.2",
+            "build_id": "16E227",
+            "size": "2.88GB",
+            "url": "http://updates-http.cdn-apple.com/2019SpringFCS/fullrestores/091-79120/ECC994A4-499F-11E9-8836-DC4576CE070F/iPad_64bit_TouchID_ASTC_12.2_16E227_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.895+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 492,
+            "version": "iPadOS 12.1.4",
+            "build_id": "16D57",
+            "size": "2.86GB",
+            "url": "http://updates-http.cdn-apple.com/2019WinterFCS/fullrestores/041-38989/320741EA-292C-11E9-A1F4-3C11412B0A59/iPad_64bit_TouchID_ASTC_12.1.4_16D57_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.457+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 462,
+            "version": "iPadOS 12.1.3",
+            "build_id": "16D39",
+            "size": "2.86GB",
+            "url": "http://updates-http.cdn-apple.com/2019WinterFCS/fullrestores/041-17587/7C87C174-15ED-11E9-875A-8F55B489F907/iPad_64bit_TouchID_ASTC_12.1.3_16D39_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.046+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 481,
+            "version": "iPadOS 12.1.1",
+            "build_id": "16C50",
+            "size": "2.86GB",
+            "url": "http://updates-http.cdn-apple.com/2018FallFCS/fullrestores/041-05470/5863A30A-E9F9-11E8-89CA-DE55C29EBEDD/iPad_64bit_TouchID_ASTC_12.1.1_16C50_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.31+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 469,
+            "version": "iPadOS 12.1",
+            "build_id": "16B92",
+            "size": "2.85GB",
+            "url": "http://updates-http.cdn-apple.com/2018FallFCS/fullrestores/091-91197/964B918C-D4BE-11E8-89C7-9DC9CE0E3F1B/iPad_64bit_TouchID_ASTC_12.1_16B92_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.144+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 508,
+            "version": "iPadOS 12.0.1",
+            "build_id": "16A404",
+            "size": "2.85GB",
+            "url": "http://updates-http.cdn-apple.com/2018FallFCS/fullrestores/041-09026/347738EA-C5EA-11E8-9534-D6B50E95C037/iPad_64bit_TouchID_ASTC_12.0.1_16A404_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.683+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 520,
+            "version": "iPadOS 12.0",
+            "build_id": "16A366",
+            "size": "2.85GB",
+            "url": "http://updates-http.cdn-apple.com/2018FallFCS/fullrestores/091-77699/118FEE96-AC8E-11E8-B8E7-F6A8415063F8/iPad_64bit_TouchID_ASTC_12.0_16A366_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.854+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 478,
+            "version": "iPadOS 11.4",
+            "build_id": "15F79",
+            "size": "2.50GB",
+            "url": "http://updates-http.cdn-apple.com/2018/ios/091-77674-20180529-3B09633C-5ABE-11E8-A2ED-F257A3E35D9E/iPad_64bit_TouchID_ASTC_11.4_15F79_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.266+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 509,
+            "version": "iPadOS 11.3.1",
+            "build_id": "15E302",
+            "size": "2.49GB",
+            "url": "http://updates-http.cdn-apple.com/2018/ios/091-78096-20180419-888BB57A-4023-11E8-8E99-3FA7FBE594B0/iPad_64bit_TouchID_ASTC_11.3.1_15E302_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.698+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 495,
+            "version": "iPadOS 11.3",
+            "build_id": "15E216",
+            "size": "2.40GB",
+            "url": "http://appldnld.apple.com/ios11.3/091-40470-20180329-3798C576-2968-11E8-93AD-F6BDE6893228/iPad_64bit_TouchID_ASTC_11.3_15E216_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.495+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 515,
+            "version": "iPadOS 11.2.6",
+            "build_id": "15D100",
+            "size": "2.35GB",
+            "url": "http://appldnld.apple.com/ios11.2.6/091-69693-20180220-063BFA36-1331-11E8-B1D9-23A2E0A71A1F/iPad_64bit_TouchID_ASTC_11.2.6_15D100_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.788+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 524,
+            "version": "iPadOS 11.2.5",
+            "build_id": "15D60",
+            "size": "2.35GB",
+            "url": "http://appldnld.apple.com/ios11.2.5/091-62064-20180122-2A121DF2-FC96-11E7-A489-AD6EFC5895F4/iPad_64bit_TouchID_ASTC_11.2.5_15D60_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.91+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 482,
+            "version": "iPadOS 11.2.2",
+            "build_id": "15C202",
+            "size": "2.35GB",
+            "url": "http://appldnld.apple.com/ios11.2.2/091-58671-20170108-B84DE7F6-F0C8-11E7-9D27-7A2D869EB6BD/iPad_64bit_TouchID_ASTC_11.2.2_15C202_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.323+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 504,
+            "version": "iPadOS 11.2.1",
+            "build_id": "15C153",
+            "size": "2.35GB",
+            "url": "http://appldnld.apple.com/ios11.2.1/091-54893-20171213-5FC491DC-DDFB-11E7-95B3-0BE4FB2783B2/iPad_64bit_TouchID_ASTC_11.2.1_15C153_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.624+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 470,
+            "version": "iPadOS 11.2",
+            "build_id": "15C114",
+            "size": "2.35GB",
+            "url": "http://appldnld.apple.com/ios11.2/091-51832-20171206-BA0CA5E6-D5F7-11E7-821B-37B9DC24E03F/iPad_64bit_TouchID_ASTC_11.2_15C114_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.159+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 513,
+            "version": "iPadOS 11.1.2",
+            "build_id": "15B202",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.1.2/091-46717-20171116-4F8DCC9A-C9C7-11E7-8588-87E0F451CBCD/iPad_64bit_TouchID_ASTC_11.1.2_15B202_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.76+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 475,
+            "version": "iPadOS 11.1.1",
+            "build_id": "15B150",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.1.1/091-42101-20171106-452B427E-C39A-11E7-B022-39BCF8FD2868/iPad_64bit_TouchID_ASTC_11.1.1_15B150_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.227+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 505,
+            "version": "iPadOS 11.1",
+            "build_id": "15B93",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.1seed/091-41090-20171023-3D994486-B5DD-11E7-ACD5-85555BD5B8E1/iPad_64bit_TouchID_ASTC_11.1_15B93_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.638+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 463,
+            "version": "iPadOS 11.0.3",
+            "build_id": "15A432",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.0.3/091-37975-20171011-DF3E75D8-AB95-11E7-B453-2CA9187BE358/iPad_64bit_TouchID_ASTC_11.0.3_15A432_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.06+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 487,
+            "version": "iPadOS 11.0.2",
+            "build_id": "15A421",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.0.2/091-34861-20171003-39BCC0A8-A486-11E7-91C4-16DA63D90D56/iPad_64bit_TouchID_ASTC_11.0.2_15A421_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.39+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 488,
+            "version": "iPadOS 11.0.1",
+            "build_id": "15A402",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.0.1/091-33951-20170925-2FD246E4-9ED2-11E7-9A94-65AAC568F843/iPad_64bit_TouchID_ASTC_11.0.1_15A402_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.404+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 514,
+            "version": "iPadOS 11.0",
+            "build_id": "15A372",
+            "size": "2.34GB",
+            "url": "http://appldnld.apple.com/ios11.0/091-31755-201700919-35B9A1EC-9027-11E7-AD5A-3135B64D2808/iPad_64bit_TouchID_ASTC_11.0_15A372_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.774+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 516,
+            "version": "iPadOS 10.3.3",
+            "build_id": "14G60",
+            "size": "2.29GB",
+            "url": "http://appldnld.apple.com/ios10.3.3/091-23331-20170719-CA996666-6977-11E7-81A4-399100BA0AE3/iPad_6,11_iPad_6,12_10.3.3_14G60_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.802+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 510,
+            "version": "iPadOS 10.3.2",
+            "build_id": "14F90",
+            "size": "2.29GB",
+            "url": "http://appldnld.apple.com/ios10.3.2/091-12983-20170515-AA04DBB4-31C4-11E7-9F21-93D18FB7FE33/iPad_6,11_iPad_6,12_10.3.2_14F90_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.716+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 525,
+            "version": "iPadOS 10.3.1",
+            "build_id": "14E304",
+            "size": "2.25GB",
+            "url": "http://appldnld.apple.com/ios10.3.1/091-07025-20170403-3B0276D4-16E1-11E7-9EF0-2E4C132AC769/iPad_6,11_iPad_6,12_10.3.1_14E304_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.924+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 521,
+            "version": "iPadOS 10.3",
+            "build_id": "14E277",
+            "size": "2.25GB",
+            "url": "http://appldnld.apple.com/ios10.3/091-02968-20170327-7583D7B2-0D86-11E7-9A4B-91CE122AC769/iPad_6,11_iPad_6,12_10.3_14E277_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:53.867+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 7498,
+            "version": "iPadOS 16.7.2 Release Candidate ",
+            "build_id": "20H115",
+            "size": "5.34GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-46723/76A3A932-10DF-478E-B38F-64FFFCC8A94D/iPad_64bit_TouchID_ASTC_16.7.2_20H115_Restore.ipsw",
+            "created_at": "2023-10-18T01:41:30.167+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7203,
+            "version": "iPadOS 16.7 Release Candidate",
+            "build_id": "20H18",
+            "size": "5.34GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-15079/9AB83661-016B-450F-B4A2-2BB8D1C1B4EF/iPad_64bit_TouchID_ASTC_16.7_20H18_Restore.ipsw",
+            "created_at": "2023-09-13T09:23:45.207+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 6871,
+            "version": "iPadOS 16.6 RC",
+            "build_id": "20G75",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17999/66C3164F-AFDE-493B-B51B-6F31DEB70297/iPad_64bit_TouchID_ASTC_16.6_20G75_Restore.ipsw",
+            "created_at": "2023-07-18T17:51:22.819+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6803,
+            "version": "iPadOS 16.6 beta 5",
+            "build_id": "20G5070a",
+            "size": "5.31GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-09824/C7EF659C-162B-4E5B-AE10-090050945069/iPad_64bit_TouchID_ASTC_16.6_20G5070a_Restore.ipsw",
+            "created_at": "2023-07-10T17:25:16.346+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6734,
+            "version": "iPadOS 16.6 beta 4",
+            "build_id": "20G5058d",
+            "size": "5.31GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-03295/49C0ED6B-3F5B-422B-BCA2-F364CFA84F4F/iPad_64bit_TouchID_ASTC_16.6_20G5058d_Restore.ipsw",
+            "created_at": "2023-06-27T17:47:20.757+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6621,
+            "version": "iPadOS 16.6 beta 3",
+            "build_id": "20G5047d",
+            "size": "5.31GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-93569/6165A468-C957-45D5-81B3-ADC026672B26/iPad_64bit_TouchID_ASTC_16.6_20G5047d_Restore.ipsw",
+            "created_at": "2023-06-15T18:46:50.879+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6584,
+            "version": "iPadOS 16.6 beta 2",
+            "build_id": "20G5037d",
+            "size": "5.31GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-88515/3F91A6D7-1400-4029-A41A-1E19FF80ED8B/iPad_64bit_TouchID_ASTC_16.6_20G5037d_Restore.ipsw",
+            "created_at": "2023-06-06T05:13:43.191+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6514,
+            "version": "iPadOS 16.6 beta",
+            "build_id": "20G5026e",
+            "size": "5.31GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-86089/34E7E44B-177C-4544-A196-D1D2EF6110DC/iPad_64bit_TouchID_ASTC_16.6_20G5026e_Restore.ipsw",
+            "created_at": "2023-05-19T17:47:54.187+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6432,
+            "version": "16.5",
+            "build_id": "20F66",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85178/78BCB6E3-2808-4BB6-A86C-2EFB9A4826F0/iPad_64bit_TouchID_ASTC_16.5_20F66_Restore.ipsw",
+            "created_at": "2023-05-15T18:17:15.225+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6394,
+            "version": "iPadOS 16.5 RC",
+            "build_id": "20F65",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-39007/A0BFE16E-9D1D-4629-A0B3-436B5DFBE2A3/iPad_64bit_TouchID_ASTC_16.5_20F65_Restore.ipsw",
+            "created_at": "2023-05-09T17:57:27.177+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6357,
+            "version": "iPadOS 16.5 beta 4",
+            "build_id": "20F5059a",
+            "size": "5.30GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79357/BD4D817B-6341-4C6A-874E-ACE1471053F7/iPad_64bit_TouchID_ASTC_16.5_20F5059a_Restore.ipsw",
+            "created_at": "2023-05-02T17:34:49.317+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6320,
+            "version": "iPadOS 16.5 beta 3",
+            "build_id": "20F5050f",
+            "size": "5.30GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-78893/43B4AAC3-4FD3-41E6-B5EF-936C277F7EC7/iPad_64bit_TouchID_ASTC_16.5_20F5050f_Restore.ipsw",
+            "created_at": "2023-04-25T17:29:46.576+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6281,
+            "version": "iPadOS 16.5 beta 2",
+            "build_id": "20F5039e",
+            "size": "5.32GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-70912/70CC0AF8-9476-4234-B71A-D8ACA564BD3B/iPad_64bit_TouchID_ASTC_16.5_20F5039e_Restore.ipsw",
+            "created_at": "2023-04-11T17:28:50.005+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6201,
+            "version": "iPadOS 16.5 beta",
+            "build_id": "20F5028e",
+            "size": "5.33GB",
+            "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-59142/1AB9F410-8095-4619-996C-72873E0DAD53/iPad_64bit_TouchID_ASTC_16.5_20F5028e_Restore.ipsw",
+            "created_at": "2023-03-28T17:38:40.42+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6112,
+            "version": "iPadOS 16.4 RC",
+            "build_id": "20E246",
+            "size": "5.32GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-66085/99FA6CBE-2B96-4A78-B677-9B11D4C0E09C/iPad_64bit_TouchID_ASTC_16.4_20E246_Restore.ipsw",
+            "created_at": "2023-03-21T18:14:27.976+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6076,
+            "version": "iPadOS 16.4 beta 4",
+            "build_id": "20E5239b",
+            "size": "5.30GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-63645/0D52FE61-0C85-444B-85AC-60D25931312A/iPad_64bit_TouchID_ASTC_16.4_20E5239b_Restore.ipsw",
+            "created_at": "2023-03-15T17:24:44.66+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6039,
+            "version": "iPadOS 16.4 beta 3",
+            "build_id": "20E5229e",
+            "size": "5.29GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-57742/DA2F8BEA-2653-440A-8B21-AB412BC2DFFF/iPad_64bit_TouchID_ASTC_16.4_20E5229e_Restore.ipsw",
+            "created_at": "2023-03-07T18:35:42.464+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 6002,
+            "version": "iPadOS 16.4 beta 2",
+            "build_id": "20E5223e",
+            "size": "5.29GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-54660/C80BE9E2-0F4D-432C-9F47-018D52B9B16B/iPad_64bit_TouchID_ASTC_16.4_20E5223e_Restore.ipsw",
+            "created_at": "2023-02-28T18:29:13.683+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5971,
+            "version": "iPadOS 16.4 beta",
+            "build_id": "20E5212f",
+            "size": "5.30GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-51574/E0B26F65-2518-4A77-899A-90A4C8B0B645/iPad_64bit_TouchID_ASTC_16.4_20E5212f_Restore.ipsw",
+            "created_at": "2023-02-16T18:34:02.848+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5830,
+            "version": "iPadOS 16.3 RC",
+            "build_id": "20D47",
+            "size": "5.11GB",
+            "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35931/D81C1CE6-B15E-4DC7-8687-F44833F4731F/iPad_64bit_TouchID_ASTC_16.3_20D47_Restore.ipsw",
+            "created_at": "2023-01-19T02:23:13.821+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5793,
+            "version": "iPadOS 16.3 beta 2",
+            "build_id": "20D5035i",
+            "size": "5.10GB",
+            "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-33210/1D01F8E0-9EA6-460B-8EC3-2FEB2324873B/iPad_64bit_TouchID_ASTC_16.3_20D5035i_Restore.ipsw",
+            "created_at": "2023-01-11T02:20:45.067+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5699,
+            "version": "iPadOS 16.2 RC",
+            "build_id": "20C65",
+            "size": "5.10GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-14002/C873A37F-C971-4460-94F2-33F2F7FDF39F/iPad_64bit_TouchID_ASTC_16.2_20C65_Restore.ipsw",
+            "created_at": "2022-12-08T02:30:48.871+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5662,
+            "version": "iPadOS 16.2 beta 4",
+            "build_id": "20C5058d",
+            "size": "5.10GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-12211/55C65944-DAA5-43F8-ADA0-8067AFED7882/iPad_64bit_TouchID_ASTC_16.2_20C5058d_Restore.ipsw",
+            "created_at": "2022-12-02T02:29:31.153+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5596,
+            "version": "iPadOS 16.2 beta 2",
+            "build_id": "20C5043e",
+            "size": "5.09GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-97792/30AB968E-32A8-4BBF-9929-6D4988C9DCA7/iPad_64bit_TouchID_ASTC_16.2_20C5043e_Restore.ipsw",
+            "created_at": "2022-11-14T17:56:16.155+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5519,
+            "version": "iPadOS 16.2 beta",
+            "build_id": "20C5032e",
+            "size": "5.09GB",
+            "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-81118/566986BD-57A2-453A-9940-E505F9FF893F/iPad_64bit_TouchID_ASTC_16.2_20C5032e_Restore.ipsw",
+            "created_at": "2022-10-26T02:40:06.791+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5413,
+            "version": "iPadOS 16.1 RC",
+            "build_id": "20B79",
+            "size": "5.04GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-90955/A6082615-39D1-4F0B-92C9-9A2B5305568B/iPad_64bit_TouchID_ASTC_16.1_20B79_Restore.ipsw",
+            "created_at": "2022-10-19T01:51:08.839+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5446,
+            "version": "iPadOS 15.7.1 RC",
+            "build_id": "19H115",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91065/DF26733B-50D9-4CAA-834A-441F88846EBF/iPad_64bit_TouchID_ASTC_15.7.1_19H115_Restore.ipsw",
+            "created_at": "2022-10-19T01:51:12.368+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5378,
+            "version": "iPadOS 16 beta 12",
+            "build_id": "20B5072b",
+            "size": "5.03GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-89169/C6818780-8A38-490F-9AFC-B652FA4296A7/iPad_64bit_TouchID_ASTC_16.1_20B5072b_Restore.ipsw",
+            "created_at": "2022-10-12T01:20:36.332+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5323,
+            "version": "iPadOS 16 beta 11",
+            "build_id": "20B5064c",
+            "size": "5.03GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-77766/7DE366A6-289F-4FB6-B5F9-7AA7A4AE8322/iPad_64bit_TouchID_ASTC_16.1_20B5064c_Restore.ipsw",
+            "created_at": "2022-10-05T01:19:44.811+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5288,
+            "version": "iPadOS 16 beta 10",
+            "build_id": "20B5056e",
+            "size": "5.04GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-72157/659875C1-7A4F-4731-BA11-3447D8AF844A/iPad_64bit_TouchID_ASTC_16.1_20B5056e_Restore.ipsw",
+            "created_at": "2022-09-28T01:24:53.642+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5233,
+            "version": "iPadOS 16 beta 9",
+            "build_id": "20B5050f",
+            "size": "5.02GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-71359/5B5C70A9-7D19-4695-9BAA-9CEAB108EE24/iPad_64bit_TouchID_ASTC_16.1_20B5050f_Restore.ipsw",
+            "created_at": "2022-09-21T01:29:21.302+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5191,
+            "version": "iPadOS 16 beta 8",
+            "build_id": "20B5045d",
+            "size": "5.02GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-66441/BA1B2CCF-90EE-45B5-BFDB-F102E922D6D7/iPad_64bit_TouchID_ASTC_16.1_20B5045d_Restore.ipsw",
+            "created_at": "2022-09-15T01:28:47.586+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5117,
+            "version": "iPadOS 15.7 RC",
+            "build_id": "19H12",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-38966/80B885FC-7186-4C64-9E7F-4DA8F1A7E12C/iPad_64bit_TouchID_ASTC_15.7_19H12_Restore.ipsw",
+            "created_at": "2022-09-08T03:18:02.231+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 5045,
+            "version": "iPadOS 16 beta 7",
+            "build_id": "20B5027f",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-47152/58A161B8-1279-48CF-918E-71EEC8F85B29/iPad_64bit_TouchID_ASTC_16.1_20B5027f_Restore.ipsw",
+            "created_at": "2022-08-24T01:15:09.405+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4982,
+            "version": "iPadOS 16 beta 6",
+            "build_id": "20A5349b",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-53388/C19A11DA-B746-4309-BD52-49F70AE2EB50/iPad_64bit_TouchID_ASTC_16.0_20A5349b_Restore.ipsw",
+            "created_at": "2022-08-16T01:17:06.094+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4951,
+            "version": "iPadOS 16 beta 5",
+            "build_id": "20A5339d",
+            "size": "4.96GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-45904/DCB2E8DC-280F-47A2-A8AC-5BDFF4F01A35/iPad_64bit_TouchID_ASTC_16.0_20A5339d_Restore.ipsw",
+            "created_at": "2022-08-09T01:21:58+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4920,
+            "version": "iPadOS 16 beta 4",
+            "build_id": "20A5328h",
+            "size": "5.08GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-44824/645AF7EC-11F4-4436-A8BA-6DE040337C88/iPad_64bit_TouchID_ASTC_16.0_20A5328h_Restore.ipsw",
+            "created_at": "2022-07-28T01:20:08.913+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4854,
+            "version": "iPadOS 15.6 RC 2",
+            "build_id": "19G71",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41686/15A91AE0-AE2D-46FA-8731-5E5AC615D629/iPad_64bit_TouchID_ASTC_15.6_19G71_Restore.ipsw",
+            "created_at": "2022-07-16T01:48:55.905+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4820,
+            "version": "iPadOS 15.6 RC",
+            "build_id": "19G69",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-40442/06DAE56B-7E3E-48FF-8446-F245037C25B0/iPad_64bit_TouchID_ASTC_15.6_19G69_Restore.ipsw",
+            "created_at": "2022-07-13T01:18:53.376+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4787,
+            "version": "iPadOS 16 beta 3 Update",
+            "build_id": "20A5312j",
+            "size": "5.07GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-40201/A43BA297-8925-483A-8A41-3715B2B9B416/iPad_64bit_TouchID_ASTC_16.0_20A5312j_Restore.ipsw",
+            "created_at": "2022-07-12T01:20:49.645+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4748,
+            "version": "iPadOS 15.6 beta 5",
+            "build_id": "19G5063a",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-36148/8F4565CA-AA6A-49C7-949E-AA1954699462/iPad_64bit_TouchID_ASTC_15.6_19G5063a_Restore.ipsw",
+            "created_at": "2022-07-06T02:22:04.167+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4715,
+            "version": "iPadOS 15.6 beta 4",
+            "build_id": "19G5056c",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-32997/D44421A5-2009-45FF-BC05-95CD529A415D/iPad_64bit_TouchID_ASTC_15.6_19G5056c_Restore.ipsw",
+            "created_at": "2022-06-29T01:36:48.348+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4681,
+            "version": "iPadOS 16 beta 2",
+            "build_id": "20A5303i",
+            "size": "5.11GB",
+            "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-26209/175A6A7C-6E52-438A-8326-FC9DFEBB4E20/iPad_64bit_TouchID_ASTC_16.0_20A5303i_Restore.ipsw",
+            "created_at": "2022-06-23T01:17:17.151+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4648,
+            "version": "iPadOS 15.6 beta 3",
+            "build_id": "19G5046d",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-18026/1E6CB00E-E1DF-408D-8EF2-1C11BECE75BD/iPad_64bit_TouchID_ASTC_15.6_19G5046d_Restore.ipsw",
+            "created_at": "2022-06-15T01:24:47.25+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4614,
+            "version": "iPadOS 16 beta",
+            "build_id": "20A5283p",
+            "size": "5.16GB",
+            "url": "https://download.developer.apple.com/WWDC_2022/iPadOS_16_beta/iPad_64bit_TouchID_ASTC_16.0_20A5283p_Restore.ipsw",
+            "created_at": "2022-06-07T11:15:17.561+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4581,
+            "version": "iPadOS 15.6 beta 2",
+            "build_id": "19G5037d",
+            "size": "4.88GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-10546/F1F85FBE-2996-428B-B7C1-2289F44A4C73/iPad_64bit_TouchID_ASTC_15.6_19G5037d_Restore.ipsw",
+            "created_at": "2022-06-01T01:44:12.787+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4506,
+            "version": "iPadOS 15.6 beta",
+            "build_id": "19G5027e",
+            "size": "4.87GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94046/B5E5A52C-2E04-45DE-9919-F1526359109D/iPad_64bit_TouchID_ASTC_15.6_19G5027e_Restore.ipsw",
+            "created_at": "2022-05-19T01:31:35.206+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4390,
+            "version": "iPadOS 15.5 RC",
+            "build_id": "19F77",
+            "size": "4.88GB",
+            "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07139/A5D0A6E7-CED5-43A6-841A-ED420B0FBDFD/iPad_64bit_TouchID_ASTC_15.5_19F77_Restore.ipsw",
+            "created_at": "2022-05-13T14:31:14.923+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4318,
+            "version": "iPadOS 15.5 beta 3",
+            "build_id": "19F5062g",
+            "size": "4.88GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-89698/163D7653-14AD-428C-8535-BE0DD125A94C/iPad_64bit_TouchID_ASTC_15.5_19F5062g_Restore.ipsw",
+            "created_at": "2022-04-27T01:19:45.233+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4284,
+            "version": "iPadOS 15.5 beta 2",
+            "build_id": "19F5057e",
+            "size": "4.88GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-87394/00E3911C-1E8D-4238-9D84-659B08998B66/iPad_64bit_TouchID_ASTC_15.5_19F5057e_Restore.ipsw",
+            "created_at": "2022-04-20T01:21:58.36+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4250,
+            "version": "iPadOS 15.5 beta",
+            "build_id": "19F5047e",
+            "size": "4.86GB",
+            "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-85857/2305A555-3DD4-48EC-8598-EAA13642D761/iPad_64bit_TouchID_ASTC_15.5_19F5047e_Restore.ipsw",
+            "created_at": "2022-04-06T01:22:57.026+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4115,
+            "version": "iPadOS 15.4 RC",
+            "build_id": "19E241",
+            "size": "4.85GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09778/B695951C-D984-4F88-AB2E-ACDE1B21AD7D/iPad_64bit_TouchID_ASTC_15.4_19E241_Restore.ipsw",
+            "created_at": "2022-03-09T03:36:27.705+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4083,
+            "version": "iPadOS 15.4 beta 5",
+            "build_id": "19E5241a",
+            "size": "4.85GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74985/D7155E0D-5FEE-40F0-8B0D-02ADE90962E0/iPad_64bit_TouchID_ASTC_15.4_19E5241a_Restore.ipsw",
+            "created_at": "2022-03-02T10:07:37.593+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4051,
+            "version": "iPadOS 15.4 beta 4",
+            "build_id": "19E5235a",
+            "size": "4.86GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74274/AF75C038-B419-4EBA-B1CB-19B510AA8338/iPad_64bit_TouchID_ASTC_15.4_19E5235a_Restore.ipsw",
+            "created_at": "2022-02-23T02:26:37.161+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4019,
+            "version": "iPadOS 15.4 beta 3",
+            "build_id": "19E5225g",
+            "size": "4.93GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-71202/D1916DB0-6A9F-43D4-BFB5-4DC67EA7232B/iPad_64bit_TouchID_ASTC_15.4_19E5225g_Restore.ipsw",
+            "created_at": "2022-02-16T02:24:02.795+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3956,
+            "version": "iPadOS 15.4 beta 2",
+            "build_id": "19E5219e",
+            "size": "4.91GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-60288/4D9E57D4-3DF5-4664-BD0E-092DCCE5058A/iPad_64bit_TouchID_ASTC_15.4_19E5219e_Restore.ipsw",
+            "created_at": "2022-02-09T02:22:44.611+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3213,
+            "version": "iPadOS 15.4 beta",
+            "build_id": "19E5209h",
+            "size": "4.91GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-59346/D5122286-3A2E-4905-9959-9BFAC66D4EC4/iPad_64bit_TouchID_ASTC_15.4_19E5209h_Restore.ipsw",
+            "created_at": "2022-02-02T10:54:43.191+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 4175,
+            "version": "iPadOS 15.3 RC",
+            "build_id": "19D49",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-55940/C56C9120-1E1F-4572-92EF-466E906E9CDB/iPad_64bit_TouchID_ASTC_15.3_19D49_Restore.ipsw",
+            "created_at": "2022-03-24T15:06:01.395+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3927,
+            "version": "iPadOS 15.3 beta 2",
+            "build_id": "19D5040e",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-52700/0773CE23-EC27-46CF-A8D5-35ECEED7C66C/iPad_64bit_TouchID_ASTC_15.3_19D5040e_Restore.ipsw",
+            "created_at": "2022-02-02T13:05:06.187+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3898,
+            "version": "iPadOS 15.3 beta",
+            "build_id": "19D5026g",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-44521/FAC46659-1768-4A0E-8F36-25B19608FC5A/iPad_64bit_TouchID_ASTC_15.3_19D5026g_Restore.ipsw",
+            "created_at": "2022-02-02T13:04:44.682+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3866,
+            "version": "iPadOS 15.2 beta 4",
+            "build_id": "19C5050b",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-40187/E91639BC-B202-4D72-90CE-65E44B049865/iPad_64bit_TouchID_ASTC_15.2_19C5050b_Restore.ipsw",
+            "created_at": "2022-02-02T13:04:16.485+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3837,
+            "version": "iPadOS 15.2 beta 3",
+            "build_id": "19C5044b",
+            "size": "4.99GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-32039/F9A7D5F7-7837-460A-AFC0-F71D58E51940/iPad_64bit_TouchID_ASTC_15.2_19C5044b_Restore.ipsw",
+            "created_at": "2022-02-02T13:03:51.184+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3808,
+            "version": "iPadOS 15.2 beta 2",
+            "build_id": "19C5036e",
+            "size": "5.01GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-28833/3E13B4D1-E2E8-4E93-83A7-1E77F6EE396D/iPad_64bit_TouchID_ASTC_15.2_19C5036e_Restore.ipsw",
+            "created_at": "2022-02-02T13:03:28.962+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3772,
+            "version": "iPadOS 15.1 beta 3",
+            "build_id": "19B5060d",
+            "size": "4.95GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-10502/C004C341-9A6C-4D7D-8403-60BBBE0C3462/iPad_64bit_TouchID_ASTC_15.1_19B5060d_Restore.ipsw",
+            "created_at": "2022-02-02T13:02:57.548+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3743,
+            "version": "iPadOS 15.1 beta 2",
+            "build_id": "19B5052f",
+            "size": "4.95GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-06489/A33836AB-5E14-4C16-8D9D-02CE2B1FBEEB/iPad_64bit_TouchID_ASTC_15.1_19B5052f_Restore.ipsw",
+            "created_at": "2022-02-02T13:02:33.898+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3708,
+            "version": "iPadOS 15.1 beta",
+            "build_id": "19B5042h",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-04089/1C268182-261C-46FA-910C-EB759BE803F0/iPad_64bit_TouchID_ASTC_15.1_19B5042h_Restore.ipsw",
+            "created_at": "2022-02-02T13:02:04.73+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3685,
+            "version": "iPadOS 15 RC",
+            "build_id": "19A344",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-96999/12F9D7B5-FC6B-4D32-A2E9-8998CBF8E051/iPad_64bit_TouchID_ASTC_15.0_19A344_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:45.423+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3662,
+            "version": "iPadOS 15 beta 8",
+            "build_id": "19A5340a",
+            "size": "4.91GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-89605/02BD268D-37EB-47E5-A1F5-51B2E7A5C770/iPad_64bit_TouchID_ASTC_15.0_19A5340a_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:25.57+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3639,
+            "version": "iPadOS 15 beta 7",
+            "build_id": "19A5337a",
+            "size": "4.91GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-88936/C8A04CCC-E7AD-4929-B391-45178BF85DF2/iPad_64bit_TouchID_ASTC_15.0_19A5337a_Restore.ipsw",
+            "created_at": "2022-02-02T13:01:00.357+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3616,
+            "version": "iPadOS 15 beta 6",
+            "build_id": "19A5325f",
+            "size": "4.92GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-84665/53DAE06F-E2E0-4BD5-82E1-EE2FEBFAB302/iPad_64bit_TouchID_ASTC_15.0_19A5325f_Restore.ipsw",
+            "created_at": "2022-02-02T13:00:31.407+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3593,
+            "version": "iPadOS 15 beta 5",
+            "build_id": "19A5318f",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-79840/35DD609A-CC98-4871-8AED-230800DEEC93/iPad_64bit_TouchID_ASTC_15.0_19A5318f_Restore.ipsw",
+            "created_at": "2022-02-02T13:00:05.539+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3570,
+            "version": "iPadOS 15 beta 4",
+            "build_id": "19A5307g",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-75951/39B365AD-0CB4-4C29-84EA-629F72E2F448/iPad_64bit_TouchID_ASTC_15.0_19A5307g_Restore.ipsw",
+            "created_at": "2022-02-02T12:59:35.083+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3525,
+            "version": "iPadOS 14.7 RC",
+            "build_id": "18G68",
+            "size": "4.42GB",
+            "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-69523/CE84A448-40E1-468C-9B1C-D583D75C2152/iPad_64bit_TouchID_ASTC_14.7_18G68_Restore.ipsw",
+            "created_at": "2022-02-02T12:57:07.066+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3550,
+            "version": "iPadOS 15.0 beta 3",
+            "build_id": "19A5297e",
+            "size": "4.94GB",
+            "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-62988/B695C5E2-6BA1-4E0D-8EFE-F9CECB51984D/iPad_64bit_TouchID_ASTC_15.0_19A5297e_Restore.ipsw",
+            "created_at": "2022-02-02T12:57:28.506+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3500,
+            "version": "iPadOS 14.7 beta 5",
+            "build_id": "18G5063a",
+            "size": "4.41GB",
+            "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-66477/88CCB5A8-8FA2-46E3-B964-0D880B25E1DC/iPad_64bit_TouchID_ASTC_14.7_18G5063a_Restore.ipsw",
+            "created_at": "2022-02-02T12:56:43.333+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3476,
+            "version": "iPadOS 15 beta 2 (new)",
+            "build_id": "19A5281j",
+            "size": "4.96GB",
+            "url": "http://updates-http.cdn-apple.com/2021SummerSeed/fullrestores/071-61683/1686C606-2FA6-4D10-819B-3E89078C1587/iPad_64bit_TouchID_ASTC_15.0_19A5281j_Restore.ipsw",
+            "created_at": "2022-02-02T12:56:21.784+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3451,
+            "version": "iPadOS 14.7 beta 4",
+            "build_id": "18G5052d",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-60376/FF24F7E3-FF52-4513-815B-07FFD7EC7D67/iPad_64bit_TouchID_ASTC_14.7_18G5052d_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:55.519+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3427,
+            "version": "iPadOS 15.0 beta 2",
+            "build_id": "19A5281h",
+            "size": "4.96GB",
+            "url": "http://updates-http.cdn-apple.com/2021SummerSeed/fullrestores/071-59323/F3F66919-80FD-42C4-B485-E271B6937E87/iPad_64bit_TouchID_ASTC_15.0_19A5281h_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:33.843+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3407,
+            "version": "iPadOS 14.7 beta 3",
+            "build_id": "18G5042c",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-54880/5B9BE364-665C-4481-93F0-FB66469C1A75/iPad_64bit_TouchID_ASTC_14.7_18G5042c_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:20.565+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3382,
+            "version": "iPadOS 14.7 beta 2",
+            "build_id": "18G5033e",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-49487/45AE3568-C234-497B-A8D6-1953C82C48EA/iPad_64bit_TouchID_ASTC_14.7_18G5033e_Restore.ipsw",
+            "created_at": "2022-02-02T12:55:15.818+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3357,
+            "version": "iPadOS 14.6 RC 2",
+            "build_id": "18F72",
+            "size": "4.41GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-45423/43CEBAED-3ADA-4615-899A-C4FF6081416F/iPad_64bit_TouchID_ASTC_14.6_18F72_Restore.ipsw",
+            "created_at": "2022-02-02T12:54:52.794+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3308,
+            "version": "iPadOS 14.6 RC",
+            "build_id": "18F71",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-43688/ED6841EE-35CC-4246-8979-8C214A1F012D/iPad_64bit_TouchID_ASTC_14.6_18F71_Restore.ipsw",
+            "created_at": "2022-02-02T12:53:52.667+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3332,
+            "version": "iPadOS 14.7 beta",
+            "build_id": "18G5023c",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-36570/E43F48BC-8596-48AD-A459-4BD48ED356A1/iPad_64bit_TouchID_ASTC_14.7_18G5023c_Restore.ipsw",
+            "created_at": "2022-02-02T12:54:28.401+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3284,
+            "version": "iPadOS 14.6 beta 3",
+            "build_id": "18F5065a",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-40011/19FB84A5-7563-4A84-AF9F-52132C579C88/iPad_64bit_TouchID_ASTC_14.6_18F5065a_Restore.ipsw",
+            "created_at": "2022-02-02T12:53:17.717+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3261,
+            "version": "iPadOS 14.6 beta 2",
+            "build_id": "18F5055b",
+            "size": "4.40GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringSeed/fullrestores/071-31090/8EC96F74-4525-486C-8003-D636FF669A3A/iPad_64bit_TouchID_ASTC_14.6_18F5055b_Restore.ipsw",
+            "created_at": "2022-02-02T12:49:54.516+08:00",
+            "type": 2,
+            "signing": -1
+        },
+        {
+            "id": 3237,
+            "version": "iPadOS 14.5 RC",
+            "build_id": "18E199",
+            "size": "4.39GB",
+            "url": "http://updates-http.cdn-apple.com/2021SpringFCS/fullrestores/071-17689/A29FBFC3-9A72-4493-8F73-4DFEABB18E47/iPad_64bit_TouchID_ASTC_14.5_18E199_Restore.ipsw",
+            "created_at": "2022-02-02T12:49:23.35+08:00",
+            "type": 2,
+            "signing": -1
+        }
+    ]
+}

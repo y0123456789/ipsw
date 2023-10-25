@@ -1,0 +1,148 @@
+{
+    "id": 83,
+    "name": "iPad 1st Gen (Wi-Fi Only)",
+    "identifier": "iPad1,1",
+    "release_date": "2010-01-28T01:00:00+08:00",
+    "firmwares": [
+        {
+            "id": 711,
+            "version": "iPadOS 5.1.1",
+            "build_id": "9B206",
+            "size": "0.71GB",
+            "url": "http://appldnld.apple.com/iOS5.1.1/041-4292.02120427.Tkk0d/iPad1,1_5.1.1_9B206_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.528+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 714,
+            "version": "iPadOS 4.3.5",
+            "build_id": "8L1",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1957.20110721.6UHaN/iPad1,1_4.3.5_8L1_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.567+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 709,
+            "version": "iPadOS 3.2.2",
+            "build_id": "7B500",
+            "size": "0.45GB",
+            "url": "http://appldnld.apple.com/iPad/061-8801.20100811.CvfR5/iPad1,1_3.2.2_7B500_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.498+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 712,
+            "version": "iPadOS 5.1",
+            "build_id": "9B176",
+            "size": "0.71GB",
+            "url": "http://appldnld.apple.com/iOS5/041-1536.20120307.XvCtw/iPad1,1_5.1_9B176_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.543+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 716,
+            "version": "iPadOS 5.0.1",
+            "build_id": "9A405",
+            "size": "0.70GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-3308.20111109.Fvgtr/iPad1,1_5.0.1_9A405_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.605+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 717,
+            "version": "iPadOS 5.0",
+            "build_id": "9A334",
+            "size": "0.68GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-8357.20111012.DTOrM/iPad1,1_5.0_9A334_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.628+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 707,
+            "version": "iPadOS 4.3.4",
+            "build_id": "8K2",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1913.20110715.cvTyu/iPad1,1_4.3.4_8K2_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.47+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 705,
+            "version": "iPadOS 4.3.3",
+            "build_id": "8J3",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1010.20110503.ScEp3/iPad1,1_4.3.3_8J3_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.44+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 713,
+            "version": "iPadOS 4.3.2",
+            "build_id": "8H7",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0661.20110414.W9Q8r/iPad1,1_4.3.2_8H7_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.555+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 706,
+            "version": "iPadOS 4.3.1",
+            "build_id": "8G4",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0550.20110325.Zsw6y/iPad1,1_4.3.1_8G4_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.456+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 708,
+            "version": "iPadOS 4.3",
+            "build_id": "8F190",
+            "size": "0.58GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0329.20110311.Cvfre/iPad1,1_4.3_8F190_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.483+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 704,
+            "version": "iPadOS 4.2.1",
+            "build_id": "8C148",
+            "size": "0.54GB",
+            "url": "http://appldnld.apple.com/iPad/061-9857.20101122.VGthy/iPad1,1_4.2.1_8C148_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.427+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 710,
+            "version": "iPadOS 3.2.1",
+            "build_id": "7B405",
+            "size": "0.45GB",
+            "url": "http://appldnld.apple.com/iPad/061-8282.20100713.vgtgh/iPad1,1_3.2.1_7B405_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.513+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 715,
+            "version": "iPadOS 3.2",
+            "build_id": "7B367",
+            "size": "0.45GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPad/061-7987.20100403.mjiTr/iPad1,1_3.2_7B367_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:57.582+08:00",
+            "type": 1,
+            "signing": -1
+        }
+    ]
+}

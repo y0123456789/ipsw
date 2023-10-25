@@ -1,0 +1,188 @@
+{
+    "id": 45,
+    "name": "iPhone 2G",
+    "identifier": "iPhone1,1",
+    "release_date": "2007-01-10T01:00:00+08:00",
+    "firmwares": [
+        {
+            "id": 3070,
+            "version": "iOS 3.1.3",
+            "build_id": "7E18",
+            "size": "0.22GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7481.20100202.4orot/iPhone1,1_3.1.3_7E18_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.838+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3064,
+            "version": "iOS 2.2.1",
+            "build_id": "5H11",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5830.20090127.Mmni6/iPhone1,1_2.2.1_5H11_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.731+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3076,
+            "version": "iOS 2.0.2",
+            "build_id": "5C1",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5246.20080818.2V0hO/iPhone1,1_2.0.2_5C1_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.952+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3077,
+            "version": "iOS 1.1.4",
+            "build_id": "4A102",
+            "size": "0.16GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4313.20080226.Sw39i/iPhone1,1_1.1.4_4A102_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.969+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3062,
+            "version": "iOS 3.1.2",
+            "build_id": "7D11",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7268.20091008.32pNe/iPhone1,1_3.1.2_7D11_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.692+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3067,
+            "version": "iOS 3.1",
+            "build_id": "7C144",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6605.20090909.PQ3ws/iPhone1,1_3.1_7C144_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.787+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3063,
+            "version": "iOS 3.0.1",
+            "build_id": "7A400",
+            "size": "0.22GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6974.20090731.Cf4Tg/iPhone1,1_3.0.1_7A400_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.711+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3071,
+            "version": "iOS 3.0",
+            "build_id": "7A341",
+            "size": "0.22GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-6580.20090617.XsP76/iPhone1,1_3.0_7A341_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.858+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3075,
+            "version": "iOS 2.2",
+            "build_id": "5G77",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5779.20081120.Pt5yH/iPhone1,1_2.2_5G77_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.934+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3072,
+            "version": "iOS 2.1",
+            "build_id": "5F136",
+            "size": "0.23GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5202.20080909.gkbEj/iPhone1,1_2.1_5F136_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.88+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3065,
+            "version": "iOS 2.0.1",
+            "build_id": "5B108",
+            "size": "0.24GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-5135.20080729.Vfgtr/iPhone1,1_2.0.1_5B108_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.752+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3068,
+            "version": "iOS 2.0",
+            "build_id": "5A347",
+            "size": "0.21GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4956.20080710.V50OI/iPhone1,1_2.0_5A347_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.804+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3066,
+            "version": "iOS 1.1.3",
+            "build_id": "4A93",
+            "size": "0.16GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4061.20080115.4Fvn7/iPhone1,1_1.1.3_4A93_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.77+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3061,
+            "version": "iOS 1.1.2",
+            "build_id": "3B48b",
+            "size": "0.16GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-4037.20071107.5Bghn/iPhone1,1_1.1.2_3B48b_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.671+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3073,
+            "version": "iOS 1.1.1",
+            "build_id": "3A109a",
+            "size": "0.15GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-3883.20070927.In76t/iPhone1,1_1.1.1_3A109a_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.897+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3069,
+            "version": "iOS 1.0.2",
+            "build_id": "1C28",
+            "size": "0.09GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-3823.20070821.vormd/iPhone1,1_1.0.2_1C28_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.821+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3078,
+            "version": "iOS 1.0.1",
+            "build_id": "1C25",
+            "size": "0.09GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-3614.20070731.Nt6Y7/iPhone1,1_1.0.1_1C25_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.988+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 3074,
+            "version": "iOS 1.0",
+            "build_id": "1A543a",
+            "size": "0.09GB",
+            "url": "http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-3538.20070629.B7vXa/iPhone1,1_1.0_1A543a_Restore.ipsw",
+            "created_at": "2021-11-30T23:16:13.917+08:00",
+            "type": 1,
+            "signing": 1
+        }
+    ]
+}

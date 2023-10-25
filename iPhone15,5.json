@@ -1,0 +1,78 @@
+{
+    "id": 186,
+    "name": "iPhone 15 Plus",
+    "identifier": "iPhone15,5",
+    "release_date": "2023-09-13T01:00:43.334+08:00",
+    "firmwares": [
+        {
+            "id": 7396,
+            "version": "iOS 17.0.3",
+            "build_id": "21A360",
+            "size": "7.45GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-72002/FCFD075B-621C-460D-980A-A1FA40DD6291/iPhone15,5_17.0.3_21A360_Restore.ipsw",
+            "created_at": "2023-10-05T01:27:01.006+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7273,
+            "version": "iOS 17.0.2",
+            "build_id": "21A350",
+            "size": "7.45GB",
+            "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-61880/A4BAED53-3B37-42C6-B877-FC80D9EA2A34/iPhone15,5_17.0.2_21A350_Restore.ipsw",
+            "created_at": "2023-09-22T02:22:52.834+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 7501,
+            "version": "iOS 17.1 Release Candidate 2",
+            "build_id": "21B77",
+            "size": "7.47GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-84265/BB6C0AFF-0FCC-4D9F-BC9C-1E2F8EE6D731/iPhone15,5_17.1_21B77_Restore.ipsw",
+            "created_at": "2023-10-21T02:35:26.463+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7459,
+            "version": "iOS 17.1 Release Candidate",
+            "build_id": "21B74",
+            "size": "7.47GB",
+            "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-07758/6D9723BE-F8D3-4208-97C1-13F196420C7B/iPhone15,5_17.1_21B74_Restore.ipsw",
+            "created_at": "2023-10-18T01:41:26.187+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7417,
+            "version": "iOS 17.1 beta 3",
+            "build_id": "21B5066a",
+            "size": "7.47GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-74129/5B264C5C-C11B-417A-9334-04B41B7024D3/iPhone15,5_17.1_21B5066a_Restore.ipsw",
+            "created_at": "2023-10-11T01:24:23.451+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7347,
+            "version": "iOS 17.1 beta 2",
+            "build_id": "21B5056e",
+            "size": "7.47GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65664/583A7537-E17F-4F5B-8A34-0604C4CD49C4/iPhone15,5_17.1_21B5056e_Restore.ipsw",
+            "created_at": "2023-10-04T01:48:25.87+08:00",
+            "type": 2,
+            "signing": 1
+        },
+        {
+            "id": 7311,
+            "version": "iOS 17.1 beta",
+            "build_id": "21A350 ",
+            "size": "7.45GB",
+            "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65123/82461885-48BF-46CE-8F3C-6364B080AB96/iPhone15,5_17.1_21B5045h_Restore.ipsw",
+            "created_at": "2023-09-28T02:48:18.14+08:00",
+            "type": 2,
+            "signing": 1
+        }
+    ]
+}

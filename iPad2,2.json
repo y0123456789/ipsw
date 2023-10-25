@@ -1,0 +1,478 @@
+{
+    "id": 15,
+    "name": "iPad 2nd Gen (Wi-Fi + GSM)",
+    "identifier": "iPad2,2",
+    "release_date": "2011-03-03T01:01:00+08:00",
+    "firmwares": [
+        {
+            "id": 2455,
+            "version": "iPadOS 9.3.5",
+            "build_id": "13G36",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/iOS9.3.5/031-74153-20160825-1250B23E-6717-11E6-AB83-973F34D2D062/iPad2,2_9.3.5_13G36_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.524+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 2456,
+            "version": "iPadOS 9.3.4",
+            "build_id": "13G35",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/ios9.3.4/031-71263-2016008004-B074A3C2-578A-11E6-A88E-E222D39E04FA/iPad2,2_9.3.4_13G35_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.541+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2442,
+            "version": "iPadOS 9.3.3",
+            "build_id": "13G34",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/iOS9.3.3/031-60996-20160718-63A290CA-4378-11E6-9ED6-1EFD59E0E9B6/iPad2,2_9.3.3_13G34_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.312+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2432,
+            "version": "iPadOS 9.3.2",
+            "build_id": "13F69",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/ios9.3.2/031-61682-20160516-6A0D271E-13A7-11E6-A0AD-A1D6400DF7EB/iPad2,2_9.3.2_13F69_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.138+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2460,
+            "version": "iPadOS 9.3.1",
+            "build_id": "13E238",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/iOS9.3.1/031-55192-20160331-09AD55DA-F5E6-11E5-BE6A-26CB2D794EB1/iPad2,2_9.3.1_13E238_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.609+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2451,
+            "version": "iPadOS 9.3",
+            "build_id": "13E236",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/iOS9.3/031-54709-20160324-DE326ED8-F20A-11E5-93BC-38FBF716D560/iPad2,2_9.3_13E236_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.456+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2461,
+            "version": "iPadOS 9.3",
+            "build_id": "13E233",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/iOS9.3/031-28382-20160321-510551BA-EAA8-11E5-AB3E-D679BD379832/iPad2,2_9.3_13E233_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.629+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2453,
+            "version": "iPadOS 6.1.3",
+            "build_id": "10B329",
+            "size": "0.79GB",
+            "url": "http://appldnld.apple.com/iOS6.1/091-2472.20130319.Ta4rt/iPad2,2_6.1.3_10B329_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.49+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2462,
+            "version": "iPadOS 9.2.1",
+            "build_id": "13D15",
+            "size": "1.31GB",
+            "url": "http://appldnld.apple.com/ios9.2.1/031-47732-20160119-8C3E5766-B968-11E5-86F8-D34A8FD31F8F/iPad2,2_9.2.1_13D15_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.657+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2448,
+            "version": "iPadOS 9.1",
+            "build_id": "13B143",
+            "size": "1.31GB",
+            "url": "http://appldnld.apple.com/ios9.1/031-41036-20151021-BA19AAD0-73FB-11E5-B4FB-987243DA716B/iPad2,2_9.1_13B143_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.411+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2466,
+            "version": "iPadOS 4.3.5",
+            "build_id": "8L1",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1961.20110721.zigyd/iPad2,2_4.3.5_8L1_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.736+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2474,
+            "version": "iPadOS 5.1.1",
+            "build_id": "9B206",
+            "size": "0.72GB",
+            "url": "http://appldnld.apple.com/iOS5.1.1/041-4296.20120427.dPX6x/iPad2,2_5.1.1_9B206_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.87+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2463,
+            "version": "iPadOS 9.2",
+            "build_id": "13C75",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios9.2/031-29087-20151203-674B783A-8D8A-11E5-B7DD-5D618B8BECEB/iPad2,2_9.2_13C75_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.681+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2467,
+            "version": "iPadOS 9.0.2",
+            "build_id": "13A452",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios9.0.2/031-37157-20150930-7ECBD7B0-64A0-11E5-9DC8-58E151D92A8C/iPad2,2_9.0.2_13A452_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.752+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2433,
+            "version": "iPadOS 9.0.1",
+            "build_id": "13A404",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios9.0.1/031-35572-20150923-C57F6606-5EFE-11E5-96F4-265D51D92A8C/iPad2,2_9.0.1_13A404_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.156+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2434,
+            "version": "iPadOS 9.0",
+            "build_id": "13A344",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios9/058-25009-20150916-2D002BEC-5678-11E5-9B61-F1F76CA99CB1/iPad2,2_9.0_13A344_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.174+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2435,
+            "version": "iPadOS 8.4.1",
+            "build_id": "12H321",
+            "size": "1.31GB",
+            "url": "http://appldnld.apple.com/ios8.4.1/031-31288-20150812-4490750C-3C90-11E5-84FD-231C3A53DB92/iPad2,2_8.4.1_12H321_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.194+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2452,
+            "version": "iPadOS 8.4",
+            "build_id": "12H143",
+            "size": "1.31GB",
+            "url": "http://appldnld.apple.com/ios8.4/ipsw/031-26007-20150630-7A543168-1B90-11E5-A347-A363BE268FF7/iPad2,2_8.4_12H143_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.473+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2464,
+            "version": "iPadOS 8.3",
+            "build_id": "12F69",
+            "size": "1.30GB",
+            "url": "http://appldnld.apple.com/ios8.3/031-14921-20150408-124A64C2-D8B8-11E4-85C3-6C1C90F2D2C2/iPad2,2_8.3_12F69_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.7+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2436,
+            "version": "iPadOS 8.2",
+            "build_id": "12D508",
+            "size": "1.34GB",
+            "url": "http://appldnld.apple.com/ios8.2/031-06562-20150309-D4DE5AB4-C1FE-11E4-B5CA-43803780E501/iPad2,2_8.2_12D508_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.214+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2468,
+            "version": "iPadOS 8.1.3",
+            "build_id": "12B466",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios8.1.3/031-15503-20150119-A0F9D246-A007-11E4-A9FE-D6575BAA4ECA/iPad2,2_8.1.3_12B466_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.773+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2437,
+            "version": "iPadOS 8.1.2",
+            "build_id": "12B440",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/ios8.1.2/031-12441.20141208.qAyrY/iPad2,2_8.1.2_12B440_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.229+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2430,
+            "version": "iPadOS 8.1.1",
+            "build_id": "12B435",
+            "size": "1.32GB",
+            "url": "http://appldnld.apple.com/iOS8.1.1/031-09898.20141117.DnCVi/iPad2,2_8.1.1_12B435_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.101+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2438,
+            "version": "iPadOS 8.1",
+            "build_id": "12B410",
+            "size": "1.49GB",
+            "url": "http://appldnld.apple.com/iOS8.1/031-09004.20141020.z23Li/iPad2,2_8.1_12B410_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.246+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2469,
+            "version": "iPadOS 8.0.2",
+            "build_id": "12A405",
+            "size": "1.49GB",
+            "url": "http://appldnld.apple.com/iOS8/031-08195.20140925.K4n8k/iPad2,2_8.0.2_12A405_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.789+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2470,
+            "version": "iPadOS 8.0.1",
+            "build_id": "12A402",
+            "size": "1.49GB",
+            "url": "http://appldnld.apple.com/iOS8/031-07507.20140924.eUHtO/iPad2,2_8.0.1_12A402_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.805+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2465,
+            "version": "iPadOS 8.0",
+            "build_id": "12A365",
+            "size": "1.46GB",
+            "url": "http://appldnld.apple.com/iOS8/031-05482.20140917.MUK6P/iPad2,2_8.0_12A365_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.721+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2457,
+            "version": "iPadOS 7.1.2",
+            "build_id": "11D257",
+            "size": "1.05GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-4791.20140627.5r2nx/iPad2,2_7.1.2_11D257_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.556+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2439,
+            "version": "iPadOS 7.1.1",
+            "build_id": "11D201",
+            "size": "1.05GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-00228.20140425.9zqxW/iPad2,2_7.1.1_11D201_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.265+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2471,
+            "version": "iPadOS 7.1",
+            "build_id": "11D167",
+            "size": "1.05GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-4484.20140310.CfrFr/iPad2,2_7.1_11D167_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.82+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2449,
+            "version": "iPadOS 7.0.6",
+            "build_id": "11B651",
+            "size": "1.06GB",
+            "url": "http://appldnld.apple.com/iOS7/031-2957.20140221.8j5GW/iPad2,2_7.0.6_11B651_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.428+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2458,
+            "version": "iPadOS 7.0.4",
+            "build_id": "11B554a",
+            "size": "1.06GB",
+            "url": "http://appldnld.apple.com/iOS7/031-1767.20131114.P3wE4/iPad2,2_7.0.4_11B554a_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.573+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2472,
+            "version": "iPadOS 7.0.3",
+            "build_id": "11B511",
+            "size": "1.06GB",
+            "url": "http://appldnld.apple.com/iOS7/031-1029.20131022.Llkfc/iPad2,2_7.0.3_11B511_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.836+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2443,
+            "version": "iPadOS 7.0.2",
+            "build_id": "11A501",
+            "size": "1.06GB",
+            "url": "http://appldnld.apple.com/iOS7/091-9832.20130924.LlIm6/iPad2,2_7.0.2_11A501_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.329+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2444,
+            "version": "iPadOS 7.0",
+            "build_id": "11A465",
+            "size": "1.06GB",
+            "url": "http://appldnld.apple.com/iOS7/091-9472.20130918.Ew3Qs/iPad2,2_7.0_11A465_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.344+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2445,
+            "version": "iPadOS 6.1.2",
+            "build_id": "10B146",
+            "size": "0.79GB",
+            "url": "http://appldnld.apple.com/iOS6.1/091-0724.20130215.2D4rt/iPad2,2_6.1.2_10B146_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.36+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2459,
+            "version": "iPadOS 6.1",
+            "build_id": "10B141",
+            "size": "0.79GB",
+            "url": "http://appldnld.apple.com/iOS6.1/041-6508.20130128.Ohdre/iPad2,2_6.1_10B141_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.592+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2440,
+            "version": "iPadOS 6.0.1",
+            "build_id": "10A523",
+            "size": "0.79GB",
+            "url": "http://appldnld.apple.com/iOS6/041-7945.20121101.Ofr42/iPad2,2_6.0.1_10A523_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.281+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2473,
+            "version": "iPadOS 6.0",
+            "build_id": "10A403",
+            "size": "0.79GB",
+            "url": "http://appldnld.apple.com/iOS6/Restore/041-7165.20120919.eZTyh/iPad2,2_6.0_10A403_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.853+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2431,
+            "version": "iPadOS 5.1",
+            "build_id": "9B176",
+            "size": "0.72GB",
+            "url": "http://appldnld.apple.com/iOS5/041-1540.20120307.tw0go/iPad2,2_5.1_9B176_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.119+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2454,
+            "version": "iPadOS 5.0.1",
+            "build_id": "9A405",
+            "size": "0.71GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-3311.20111109.Vpr43/iPad2,2_5.0.1_9A405_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.506+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2446,
+            "version": "iPadOS 5.0",
+            "build_id": "9A334",
+            "size": "0.70GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-9619.20111012.y34Nx/iPad2,2_5.0_9A334_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.378+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2475,
+            "version": "iPadOS 4.3.4",
+            "build_id": "8K2",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1914.20110715.Xdw2Q/iPad2,2_4.3.4_8K2_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.889+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2476,
+            "version": "iPadOS 4.3.3",
+            "build_id": "8J2",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-1013.20110503.1m73D/iPad2,2_4.3.3_8J2_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.904+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2450,
+            "version": "iPadOS 4.3.2",
+            "build_id": "8H7",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0664.20110414.39vUS/iPad2,2_4.3.2_8H7_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.44+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2447,
+            "version": "iPadOS 4.3.1",
+            "build_id": "8G4",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0557.20110325.Jy76y/iPad2,2_4.3.1_8G4_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.394+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2441,
+            "version": "iPadOS 4.3",
+            "build_id": "8F191",
+            "size": "0.60GB",
+            "url": "http://appldnld.apple.com/iPhone4/041-0369.20110311.Xzsew/iPad2,2_4.3_8F191_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:44.297+08:00",
+            "type": 1,
+            "signing": -1
+        }
+    ]
+}

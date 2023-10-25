@@ -1,0 +1,448 @@
+{
+    "id": 122,
+    "name": "iPhone 5C (Global)",
+    "identifier": "iPhone5,4",
+    "release_date": "2013-09-11T01:01:00+08:00",
+    "firmwares": [
+        {
+            "id": 795,
+            "version": "iOS 10.3.3",
+            "build_id": "14G60",
+            "size": "1.86GB",
+            "url": "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.223+08:00",
+            "type": 1,
+            "signing": 1
+        },
+        {
+            "id": 819,
+            "version": "iOS 10.3.2",
+            "build_id": "14F89",
+            "size": "1.86GB",
+            "url": "http://appldnld.apple.com/ios10.3.2/031-98735-20170515-E1FD1FE2-2F92-11E7-B7C4-E9688FB7FE33/iPhone_4.0_32bit_10.3.2_14F89_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.664+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 805,
+            "version": "iOS 10.3.1",
+            "build_id": "14E304",
+            "size": "1.83GB",
+            "url": "http://appldnld.apple.com/ios10.3.1/091-05392-20170403-3B04A9B8-16E1-11E7-B171-1B4C132AC769/iPhone_4.0_32bit_10.3.1_14E304_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.412+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 786,
+            "version": "iOS 10.3",
+            "build_id": "14E277",
+            "size": "1.83GB",
+            "url": "http://appldnld.apple.com/ios10.3/091-02974-20170327-75848B3A-0D86-11E7-8DD8-92CE122AC769/iPhone_4.0_32bit_10.3_14E277_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.093+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 796,
+            "version": "iOS 10.2.1",
+            "build_id": "14D27",
+            "size": "1.84GB",
+            "url": "http://appldnld.apple.com/ios10.2.1/031-96819-20170112-6157F3B6-D81D-11E6-B20A-FC01D55B5B9D/iPhone_4.0_32bit_10.2.1_14D27_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.24+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 820,
+            "version": "iOS 10.2",
+            "build_id": "14C92",
+            "size": "1.85GB",
+            "url": "http://appldnld.apple.com/ios10.2seed/031-94091-20161207-6172F988-BBD8-11E6-BBA9-9A7FE47229E1/iPhone_4.0_32bit_10.2_14C92_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.691+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 812,
+            "version": "iOS 10.1.1",
+            "build_id": "14B150",
+            "size": "1.82GB",
+            "url": "http://appldnld.apple.com/ios10.1.1/031-88366-20161109-4C58564C-A503-11E6-80E3-47AEF9858D7F/iPhone_4.0_32bit_10.1.1_14B150_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.518+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 797,
+            "version": "iOS 10.1.1",
+            "build_id": "14B100",
+            "size": "1.82GB",
+            "url": "http://appldnld.apple.com/ios10.1.1/031-88061-20161031-A4946800-9D42-11E6-A5AA-6F447FA31755/iPhone_4.0_32bit_10.1.1_14B100_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.257+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 777,
+            "version": "iOS 10.1",
+            "build_id": "14B72",
+            "size": "1.82GB",
+            "url": "http://appldnld.apple.com/ios10.1/031-65091-20161024-3A160C6C-92E9-11E6-8400-13827FA31755/iPhone_4.0_32bit_10.1_14B72_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:58.962+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 823,
+            "version": "iOS 10.0.2",
+            "build_id": "14A456",
+            "size": "1.82GB",
+            "url": "http://appldnld.apple.com/ios10.0.2/031-77046-20160922-2DD1B1F6-801D-11E6-8FD1-DC5334D2D062/iPhone_4.0_32bit_10.0.2_14A456_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.784+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 806,
+            "version": "iOS 10.0.1",
+            "build_id": "14A403",
+            "size": "1.82GB",
+            "url": "http://appldnld.apple.com/ios10.0/031-76540-20160907-1701C70E-71FE-11E6-B803-1CB934D2D062/iPhone_4.0_32bit_10.0.1_14A403_Restore.ipsw",
+            "created_at": "2021-11-30T23:14:59.428+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2703,
+            "version": "iOS 9.3.5",
+            "build_id": "13G36",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/iOS9.3.5/031-73450-20160825-6A2EABE2-6711-11E6-96FB-243834D2D062/iPhone5,4_9.3.5_13G36_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.083+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2708,
+            "version": "iOS 9.3.4",
+            "build_id": "13G35",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/ios9.3.4/031-71476-2016008004-BFE2A9B2-578A-11E6-835D-3024D39E04FA/iPhone5,4_9.3.4_13G35_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.245+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2699,
+            "version": "iOS 9.3.3",
+            "build_id": "13G34",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/iOS9.3.3/031-61093-20160718-E21C7AEC-4378-11E6-8E9C-D2FE59E0E9B6/iPhone5,4_9.3.3_13G34_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.967+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2689,
+            "version": "iOS 9.3.2",
+            "build_id": "13F69",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/ios9.3.2/031-61589-20160516-6A0DB742-13A7-11E6-8EF1-9AD6400DF7EB/iPhone5,4_9.3.2_13F69_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.663+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2695,
+            "version": "iOS 9.3.1",
+            "build_id": "13E238",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/iOS9.3.1/031-55833-20160331-09BA708A-F5E6-11E5-B319-3DCB2D794EB1/iPhone5,4_9.3.1_13E238_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.821+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2709,
+            "version": "iOS 9.3",
+            "build_id": "13E237",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/iOS9.3/031-55135-20160328-92CF8F62-F29A-11E5-A232-C00EF816D560/iPhone5,4_9.3_13E237_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.267+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2713,
+            "version": "iOS 9.3",
+            "build_id": "13E233",
+            "size": "1.59GB",
+            "url": "http://appldnld.apple.com/iOS9.3/031-28366-20160321-5101C216-EAA8-11E5-96C2-CD79BD379832/iPhone5,4_9.3_13E233_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.388+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2688,
+            "version": "iOS 9.1",
+            "build_id": "13B143",
+            "size": "1.56GB",
+            "url": "http://appldnld.apple.com/ios9.1/031-41195-20151021-BA1ACCBC-73FB-11E5-A6AA-B27243DA716B/iPhone5,4_9.1_13B143_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.639+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2686,
+            "version": "iOS 9.2.1",
+            "build_id": "13D15",
+            "size": "1.56GB",
+            "url": "http://appldnld.apple.com/ios9.2.1/031-47703-20160119-63A26E40-B969-11E5-9A29-464C8FD31F8F/iPhone5,4_9.2.1_13D15_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.592+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2687,
+            "version": "iOS 9.2",
+            "build_id": "13C75",
+            "size": "1.56GB",
+            "url": "http://appldnld.apple.com/ios9.2/031-29211-20151203-2227FD54-8D8B-11E5-846E-CF628B8BECEB/iPhone5,4_9.2_13C75_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.613+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2714,
+            "version": "iOS 9.0.2",
+            "build_id": "13A452",
+            "size": "1.55GB",
+            "url": "http://appldnld.apple.com/ios9.0.2/031-37486-20150930-7ECEB732-64A0-11E5-ADC0-62E151D92A8C/iPhone5,4_9.0.2_13A452_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.41+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2700,
+            "version": "iOS 9.0.1",
+            "build_id": "13A404",
+            "size": "1.55GB",
+            "url": "http://appldnld.apple.com/ios9.0.1/031-35314-20150923-C58085FE-5EFE-11E5-B44C-305D51D92A8C/iPhone5,4_9.0.1_13A404_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.995+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2704,
+            "version": "iOS 9.0",
+            "build_id": "13A344",
+            "size": "1.55GB",
+            "url": "http://appldnld.apple.com/ios9/031-28090-20150916-2D01D21C-5678-11E5-B696-FCF76CA99CB1/iPhone5,4_9.0_13A344_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.103+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2683,
+            "version": "iOS 8.4.1",
+            "build_id": "12H321",
+            "size": "1.55GB",
+            "url": "http://appldnld.apple.com/ios8.4.1/031-30941-20150812-7516948C-3C8F-11E5-B90B-951A3A53DB92/iPhone5,4_8.4.1_12H321_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.496+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2705,
+            "version": "iOS 8.4",
+            "build_id": "12H143",
+            "size": "1.55GB",
+            "url": "http://appldnld.apple.com/ios8.4/ipsw/031-25933-20150630-7A54DD5C-1B90-11E5-A3B8-AF63BE268FF7/iPhone5,4_8.4_12H143_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.136+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2690,
+            "version": "iOS 8.3",
+            "build_id": "12F70",
+            "size": "1.54GB",
+            "url": "http://appldnld.apple.com/ios8.3/031-19816-20150408-6F9D7CC4-DAEB-11E4-9F56-8D6C90F2D2C2/iPhone5,4_8.3_12F70_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.686+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2696,
+            "version": "iOS 8.2",
+            "build_id": "12D508",
+            "size": "1.56GB",
+            "url": "http://appldnld.apple.com/ios8.2/031-06530-20150309-D4DC2474-C1FE-11E4-81AF-2C803780E501/iPhone5,4_8.2_12D508_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.855+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2710,
+            "version": "iOS 8.1.3",
+            "build_id": "12B466",
+            "size": "1.50GB",
+            "url": "http://appldnld.apple.com/ios8.1.3/031-15427-20150119-8A3733FC-A005-11E4-A719-25565BAA4ECA/iPhone5,4_8.1.3_12B466_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.288+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2691,
+            "version": "iOS 8.1.2",
+            "build_id": "12B440",
+            "size": "1.50GB",
+            "url": "http://appldnld.apple.com/ios8.1.2/031-11453.20141208.ve68F/iPhone5,4_8.1.2_12B440_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.712+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2684,
+            "version": "iOS 8.1.1",
+            "build_id": "12B435",
+            "size": "1.50GB",
+            "url": "http://appldnld.apple.com/iOS8.1.1/031-09781.20141117.kBGeC/iPhone5,4_8.1.1_12B435_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.516+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2701,
+            "version": "iOS 8.1",
+            "build_id": "12B411",
+            "size": "1.70GB",
+            "url": "http://appldnld.apple.com/iOS8.1/031-09410.20141020.Jhv5W/iPhone5,4_8.1_12B411_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.021+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2711,
+            "version": "iOS 8.0.2",
+            "build_id": "12A405",
+            "size": "1.70GB",
+            "url": "http://appldnld.apple.com/iOS8/031-08083.20140925.13BUr/iPhone5,4_8.0.2_12A405_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.312+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2702,
+            "version": "iOS 8.0.1",
+            "build_id": "12A402",
+            "size": "1.70GB",
+            "url": "http://appldnld.apple.com/iOS8/031-07486.20140924.8optk/iPhone5,4_8.0.1_12A402_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.043+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2692,
+            "version": "iOS 8.0",
+            "build_id": "12A365",
+            "size": "1.67GB",
+            "url": "http://appldnld.apple.com/iOS8/031-05340.20140917.F1SK7/iPhone5,4_8.0_12A365_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.738+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2685,
+            "version": "iOS 7.1.2",
+            "build_id": "11D257",
+            "size": "1.28GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-4772.20140627.75PIm/iPhone5,4_7.1.2_11D257_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.537+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2697,
+            "version": "iOS 7.1.1",
+            "build_id": "11D201",
+            "size": "1.26GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-00098.20140425.n3aEh/iPhone5,4_7.1.1_11D201_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.879+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2698,
+            "version": "iOS 7.1",
+            "build_id": "11D167",
+            "size": "1.28GB",
+            "url": "http://appldnld.apple.com/iOS7.1/031-4322.20140310.kOVha/iPhone5,4_7.1_11D167_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.914+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2693,
+            "version": "iOS 7.0.6",
+            "build_id": "11B651",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-3516.20140221.8j5GW/iPhone5,4_7.0.6_11B651_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.761+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2712,
+            "version": "iOS 7.0.5",
+            "build_id": "11B601",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-2903.20140129.AaQe3/iPhone5,4_7.0.5_11B601_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.335+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2706,
+            "version": "iOS 7.0.4",
+            "build_id": "11B554a",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-1869.20131114.P3wE4/iPhone5,4_7.0.4_11B554a_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.157+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2715,
+            "version": "iOS 7.0.3",
+            "build_id": "11B511",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-0853.20131022.suup3/iPhone5,4_7.0.3_11B511_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.439+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2694,
+            "version": "iOS 7.0.2",
+            "build_id": "11A501",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-0307.20130924.yxzkZ/iPhone5,4_7.0.2_11A501_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:58.788+08:00",
+            "type": 1,
+            "signing": -1
+        },
+        {
+            "id": 2707,
+            "version": "iOS 7.0.1",
+            "build_id": "11A470a",
+            "size": "1.24GB",
+            "url": "http://appldnld.apple.com/iOS7/031-0292.20130914.rHLcE/iPhone5,4_7.0.1_11A470a_Restore.ipsw",
+            "created_at": "2021-11-30T23:15:59.191+08:00",
+            "type": 1,
+            "signing": -1
+        }
+    ]
+}
