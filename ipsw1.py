@@ -13,7 +13,7 @@ devices = {
 }
 
 for device_key, device_name in devices.items():
-    device_url = f"https://betahub.cn/api/apple/devices/{device_name}"
+    device_url = f"https://www.betahub.cn/api/apple/devices/{device_name}"
     response = requests.get(device_url)
     devices_data = response.json()
 
@@ -22,30 +22,37 @@ for device_key, device_name in devices.items():
     for device in devices_data:
         identifier = device.get("identifier")
 
-        url1 = f"https://betahub.cn/api/apple/firmwares/{identifier}?type=1"
-        url2 = f"https://betahub.cn/api/apple/firmwares/{identifier}?type=2"
+        if identifier not in firmware_data:
+            firmware_data[identifier] = {
+                "id": None,
+                "name": None,
+                "identifier": None,
+                "release_date": None,
+                "firmwares": []
+            }
+
+        url1 = f"https://www.betahub.cn/api/apple/firmwares/{identifier}?type=1"
+        url2 = f"https://www.betahub.cn/api/apple/firmwares/{identifier}?type=2"
 
         response1 = requests.get(url1)
         data1 = response1.json()
 
-        if identifier in firmware_data:
-            # 如果已经存在相同identifier的数据，将固件数据合并
-            firmware_data[identifier]['firmwares'].extend(data1['firmwares'])
-        else:
-            firmware_data[identifier] = {
-                "id": data1.get("id"),
-                "name": data1.get("name"),
-                "identifier": data1.get("identifier"),
-                "release_date": format_date(data1.get("release_date")),
-                "firmwares": data1.get("firmwares")
-            }
+        # 合并固件数据
+        firmware_data[identifier]["firmwares"].extend(data1.get("firmwares", []))
 
         if url2:
             response2 = requests.get(url2)
             data2 = response2.json()
 
-            # 同样，将相同identifier的数据合并
-            firmware_data[identifier]['firmwares'].extend(data2['firmwares'])
+            # 同样，合并固件数据
+            firmware_data[identifier]["firmwares"].extend(data2.get("firmwares", []))
+
+    # 更新其他属性，如id、name和release_date
+    for identifier, data in firmware_data.items():
+        data["id"] = data1.get("id")
+        data["name"] = data1.get("name")
+        data["identifier"] = data1.get("identifier")
+        data["release_date"] = format_date(data1.get("release_date"))
 
     # 将每个固件数据中的created_at转换为年月日格式
     for identifier, data in firmware_data.items():
