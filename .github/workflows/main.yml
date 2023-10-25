@@ -31,7 +31,7 @@ jobs:
 
     - name: 运行代码
       run: |
-        python ipsw.py
+        python ipsw1.py
 
     - name: 创建 Deploy 文件夹
       run: mkdir -p deploy
