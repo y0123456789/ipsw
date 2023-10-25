@@ -13,7 +13,7 @@ devices = {
 }
 
 for device_key, device_name in devices.items():
-    device_url = f"https://www.betahub.cn/api/apple/devices/{device_name}"
+    device_url = f"https://betahub.cn/api/apple/devices/{device_name}"
     response = requests.get(device_url)
     devices_data = response.json()
 
@@ -31,8 +31,8 @@ for device_key, device_name in devices.items():
                 "firmwares": []
             }
 
-        url1 = f"https://www.betahub.cn/api/apple/firmwares/{identifier}?type=1"
-        url2 = f"https://www.betahub.cn/api/apple/firmwares/{identifier}?type=2"
+        url1 = f"https://betahub.cn/api/apple/firmwares/{identifier}?type=1"
+        url2 = f"https://betahub.cn/api/apple/firmwares/{identifier}?type=2"
 
         response1 = requests.get(url1)
         data1 = response1.json()
